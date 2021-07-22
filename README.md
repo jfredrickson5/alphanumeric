@@ -3,19 +3,15 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
 
-# 18F’s flagship website
+# TechRadar Website
 
-This repository houses the 18F website. We use the [U.S. Web Design System](https://designsystem.digital.gov/) for the front end interface. The site is built and served through [the Federalist platform](https://federalist.18f.gov/).
+This repository houses the TechRadar website. We use the [U.S. Web Design System](https://designsystem.digital.gov/) for the front end interface. The site is built and served through [the Federalist platform](https://federalist.18f.gov/), and based on 18F's flagship website.
 
-### Style and style guide
+### Style and Style Guide
 
-18f.gsa.gov extends the [U.S. Web Design System](https://designsystem.digital.gov/) and [18F Brand guidelines](https://pages.18f.gov/brand/) to create a style that is professional, unique, and informative. The style guide, located at [18f.gsa.gov/styleguide/](https://18f.gsa.gov/styleguide/) documents the patterns and components used to create this theme.
+TechRadar extends the [U.S. Web Design System](https://designsystem.digital.gov/) and [18F Brand guidelines](https://pages.18f.gov/brand/) to create a style that is professional, unique, and informative. The style guide, located at [18f.gsa.gov/styleguide/](https://18f.gsa.gov/styleguide/) documents the patterns and components used to create this theme.
 
 [View style guide](https://18f.gsa.gov/styleguide/)
-
-### History
-
-A detailed history of the past work that went into developing this redesign can be found at [18F/beta.18f.gov](https://github.com/18F/beta.18f.gov).
 
 ## Installation and Deployment
 
@@ -23,8 +19,8 @@ __*Note:*__ _The Federalist platform does not support the use of a predefined `S
 
 Run each of the following steps to get the site up and running.
 
-1. `git clone git@github.com:18F/18f.gsa.gov`
-2. `cd 18f.gsa.gov`
+1. `git clone git@github.com:gsa/techradar`
+2. `cd techradar.gsa.gov`
 3. `bundle install`
 4. `./serve`
 
@@ -36,8 +32,7 @@ To dramatically reduce the build time, there are two commands that you can run i
 You should be able to see the site at: http://127.0.0.1:4000/site/
 
 ## Alternative Installation using Docker
-Using Docker can make dependencies management easier, but can also slow down your build time. You can find out more in
-[this discussion](https://github.com/18F/18f.gsa.gov/pull/1688#issue-152998027).
+Using Docker can make dependencies management easier, but can also slow down your build time.
 
 *To try this out on MacOS:*
 
@@ -59,4 +54,4 @@ The site is a static website with HTML, CSS, and Javascript. Deployments are don
 1. Federalist runs in its own organization and space in [cloud.gov](https://cloud.gov/), which piggybacks on [AWS GovCloud](https://aws.amazon.com/govcloud-us/).
 1. Federalist Admin: https://federalist.18f.gov/.
 1. Federalist responds to a webhook on GitHub and runs Jekyll to generate static web files and puts them in an S3 bucket.
-1. We map 18f.gsa.gov URL to the S3 bucket.
+1. We map techradar.gsa.gov URL to the S3 bucket.
