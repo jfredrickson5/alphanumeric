@@ -1,26 +1,26 @@
 anchor_data:
-    - site_name: 18f.gsa.gov
-      site_email: 18f@gsa.gov
-      site_url: https://18f.gsa.gov
-      site_about: https://https://18f.gsa.gov/about
+    - site_name: techradar.gsa.gov
+      site_email: techradar@gsa.gov
+      site_url: https://techradar.gsa.gov
+      site_about: https://https://techradar.gsa.gov/about
       agency: U.S. General Services Administration
       agency_acronym: GSA
       agency_logo: /assets/img/logos/gsa-logo-w100.png
       agency_url: https://www.gsa.gov
       agency_about_url: https://www.gsa.gov/about
-      org_primary: Technology Transformation Services
-      org_primary_acronym: TTS
-      org_primary_url: https://www.gsa.gov/tts/
-      org_primary_email: tts-info@gsa.gov
-      org_primary_about: https://www.gsa.gov/tts/
-      org_primary_bio: "As part of GSA’s Technology Transformation Services (TTS), we apply modern methodologies and technologies to improve the public’s experience with government. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions."
-      org_secondary: Office of 18F
-      org_secondary_b: Office of 18F
-      org_secondary_acronym: TTS Solutions
-      org_secondary_url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/18f
-      org_secondary_email: tts-info@gsa.gov
-      org_secondary_about: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/18f
-      org_secondary_bio: "TTS Solutions is a portfolio of products and services that help agencies improve delivery of information and services to the public."
+      org_primary: Office of the Chief Information Officer
+      org_primary_acronym: GSA IT
+      org_primary_url: https://www.gsa.gov/about-us/organization/gsa-it
+      org_primary_email: CIO@gsa.gov
+      org_primary_about: https://www.gsa.gov/about-us/organization/gsa-it
+      org_primary_bio: "As part of GSA’s Office of the Chief Information Officer (GSA IT), TechRadar accelerates emerging tech assessment, alignment, and action."
+      org_secondary: Office of the Chief Technology Officer
+      org_secondary_b: OCTO
+      org_secondary_acronym: OCTO
+      org_secondary_url: https://www.tech.gsa.gov
+      org_secondary_email: CTO@gsa.gov
+      org_secondary_about: https://tech.gsa.gov/about
+      org_secondary_bio: "The mission of the Office of the Chief Technology Officer is to: drive technology by user need and experience; be a model of technology management for the Federal Government; change culture around IT towards open source, Agile, and DevOps to benefit the business; realize fiscal and mission benefits of moving to the cloud; ensure FITARA compliance; and support delivery of smaller projects through the GSA Digital Service."
       foia_request_url: "https://www.gsa.gov/reference/freedom-of-information-act-foia"
       fraud_waste_abuse_url: "https://www.gsaig.gov/"
       no_fear_act_url: "https://www.gsa.gov/about-us/organization/office-of-civil-rights/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002"
