@@ -15,6 +15,8 @@ subnav_items:
     permalink: /about/#for-press
 ---
 
+## Our Office
+
 The Office of the CTO (OCTO):
 
 - is where organizations will go to collaboratively define their business solutions
@@ -34,6 +36,7 @@ change culture around IT towards open source, Agile, and DevOps to benefit the b
 - realize fiscal and mission benefits of moving to the cloud
 ensure FITARA compliance
 - support delivery of smaller projects through the GSA Digital Service.
+
 -----
 
 ## Our Goals
@@ -45,8 +48,9 @@ Our goals are to:
 - Create a unified cloud solution for internal and external GSA customers
 manage our technology strategy to enable innovation without chaos
 bring together communities of practice around technology and techniques so GSA IT can share knowledge and make decisions about best practices together
-- [open our data and our software] (http://open.gsa.gov/)
+- open our data and our software 
 - execute rapidly on low-cost solutions for self-contained projects
+
 -----
 
 ## For Press
