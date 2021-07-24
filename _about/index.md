@@ -2,16 +2,16 @@
 title: About
 permalink: /about/
 layout: primary
-lead: Accelerating assessment, alignment, and action on emerging tech.
+lead: Accelerating emerging tech assessment, alignment, and action.
 banner_cta: true
 subnav_items:
-  - text: Our mission
+  - text: Our Office
+    permalink: /about/#our-office
+  - text: Our Mission
     permalink: /about/#our-mission
-  - text: Our team
-    permalink: /about/#our-team
-  - text: History and funding
-    permalink: /about/#history-and-funding
-  - text: For press
+  - text: Our Goals
+    permalink: /about/#our-goals
+  - text: For Press
     permalink: /about/#for-press
 ---
 
@@ -55,7 +55,7 @@ bring together communities of practice around technology and techniques so GSA I
 
 ## For Press
 
-For all press inquiries, please email [press@gsa.gov](mailto:press@gsa.gov?Subject=18F%20Media%20Query) with the topic you’d like to talk about and your deadline.
+For all press inquiries, please e-mail [press@gsa.gov](mailto:press@gsa.gov?Subject=18F%20Media%20Query) with the topic you’d like to talk about and your deadline.
 
 The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at TechRadar and OCTO. See the [GSA newsroom](https://www.gsa.gov/portal/category/26627) for news releases and official resources.
 
