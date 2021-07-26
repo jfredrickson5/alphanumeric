@@ -7,20 +7,18 @@ assigned:
         in_drawer: false
         in_footer: false
     -
-        text: Emerging Technologies
-#         href: pages/what-we-deliver.md
-        href: pages/emerging-technologies.md
+        text: What we deliver
+        href: pages/what-we-deliver.md
         colllections: ['projects']
-        permalink: /emerging-technologies/
+        permalink: /what-we-deliver/
         in_menu: true
         in_drawer: true
         in_footer: true
         children:
     -
-        text: Our Community
-#         href: pages/how-we-work.md
-        href: pages/our-community.md
-        permalink: /our-community/
+        text: How we work
+        href: pages/how-we-work.md
+        permalink: /how-we-work/
         in_menu: true
         in_drawer: true
         in_footer: false
