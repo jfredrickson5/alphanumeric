@@ -14,7 +14,7 @@ project_with_children:
   in_drawer: false
   in_footer: false
   children:
-    - text: fec-gov
+    - text: gsa-gov
       permalink: /what-we-deliver/fec-gov
       permalink_alt: /what-we-deliver/
       collections: ['services_projects']
