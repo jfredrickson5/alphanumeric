@@ -29,7 +29,7 @@ For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](
         <ul>
           <li><a href="{{ site.baseurl }}/what-we-deliver/">Who We Are</a></li>
           <li><a href="{{ site.baseurl }}/partnership-principles/">Partnership principles</a></li>
-          <li><a href="{{ site.baseurl }}/about/#funding-and-agreements">How we're funded</a></li>
+          <li><a href="{{ site.baseurl }}/about/#funding-and-agreements">Our Office</a></li>
         </ul>
         <h4 class="sidebar-heading-border">Follow TechRadar</h4>
         <ul class="usa-list usa-list--unstyled">
