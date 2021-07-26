@@ -1,16 +1,14 @@
 navbar:
 - text: Emerging Technologies
-#   permalink: /what-we-deliver/
-  permalink: /emerging-technologies/
+  permalink: /what-we-deliver/
   multiple_permalinks:
-#     - /what-we-deliver/:path/
-    - /emerging-technologies/:path/
+    - /what-we-deliver/:path/
 - text: Our Story
-#   permalink: /guides/
-  permalink: /our-story/
+  permalink: /guides/
+  
 - text: Our Community
-#   permalink: /how-we-work/
-  permalink: /our-community/
+  permalink: /how-we-work/
+  
 # - text: Blog
 #   permalink: /blog/
 #   multiple_permalinks:
@@ -22,17 +20,13 @@ navbar:
 
 drawer:
 - text: Emerging Technologies
-#   permalink: /what-we-deliver/
-  permalink: /emerging-technologies/
+  permalink: /what-we-deliver/
   multiple_permalinks:
-#     - /what-we-deliver/:path/
-    - /emerging-technologies/:path/
+    - /what-we-deliver/:path/
 - text: Our Story
-#   permalink: /guides/
-  permalink: /our-story/
+  permalink: /guides/
 - text: Our Community
-#   permalink: /how-we-work/
-  permalink: /our-community/
+  permalink: /how-we-work/
 # - text: Blog
 #   permalink: /blog/
 #   multiple_permalinks:
@@ -44,17 +38,13 @@ drawer:
 
 footer:
 - text: Emerging Technologies
-#   permalink: /what-we-deliver/
-  permalink: /emerging-technologies/
+  permalink: /what-we-deliver/
   multiple_permalinks:
-#     - /what-we-deliver/:path/
-    - /emerging-technologies/:path/
+    - /what-we-deliver/:path/
 - text: Our Story
-#   permalink: /guides/
-  permalink: /our-story/
+  permalink: /guides/
 - text: Our Community
-#   permalink: /how-we-work/
-  permalink: /our-community/
+  permalink: /how-we-work/
 # - text: Blog
 #   permalink: /blog/
 #   multiple_permalinks:
