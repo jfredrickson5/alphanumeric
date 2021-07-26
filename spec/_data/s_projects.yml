@@ -1,6 +1,6 @@
 project:
   text: Emerging Technologies
-  permalink: /emerging-technologies/
+  permalink: /what-we-deliver/
   collections: ['services_projects']
   in_menu: false
   in_drawer: false
@@ -8,15 +8,15 @@ project:
   children:
 project_with_children:
   text: Emerging Technologies
-  permalink: /emerging-technologies/
+  permalink: /what-we-deliver/
   collections: ['services_projects']
   in_menu: false
   in_drawer: false
   in_footer: false
   children:
-    - text: gsa-gov
-      permalink: /emerging-technologies/gsa-gov
-      permalink_alt: /emerging-technologies/
+    - text: fec-gov
+      permalink: /what-we-deliver/fec-gov
+      permalink_alt: /what-we-deliver/
       collections: ['services_projects']
       in_menu: false
       in_drawer: false
