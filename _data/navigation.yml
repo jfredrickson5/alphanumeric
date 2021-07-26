@@ -1,55 +1,65 @@
 navbar:
-- text: What we deliver
-  permalink: /what-we-deliver/
+- text: Emerging Technologies
+#   permalink: /what-we-deliver/
+  permalink: /emerging-technologies/
   multiple_permalinks:
-    - /what-we-deliver/:path/
-- text: How we work
-  permalink: /how-we-work/
-- text: Guides
-  permalink: /guides/
-- text: Blog
-  permalink: /blog/
-  multiple_permalinks:
-    - /blog/:path/
-    - /tags/:path/
-    - /author/:path/
+#     - /what-we-deliver/:path/
+    - /emerging-technologies/:path/
+- text: Our Story
+#   permalink: /guides/
+  permalink: /our-story/
+- text: Our Community
+#   permalink: /how-we-work/
+  permalink: /our-community/
+# - text: Blog
+#   permalink: /blog/
+#   multiple_permalinks:
+#     - /blog/:path/
+#     - /tags/:path/
+#     - /author/:path/
 - text: Contact
   permalink: /contact/
 
 drawer:
-  - text: What we deliver
-    permalink: /what-we-deliver/
-    multiple_permalinks:
-    - /what-we-deliver/:path/
-  - text: How we work
-    permalink: /how-we-work/
-  - text: About
-    permalink: /about/
-  - text: Blog
-    permalink: /blog/
-    multiple_permalinks:
-      - /blog/:path/
-      - /tags/:path/
-      - /author/:path/
-  - text: Contact
-    permalink: /contact/
+- text: Emerging Technologies
+#   permalink: /what-we-deliver/
+  permalink: /emerging-technologies/
+  multiple_permalinks:
+#     - /what-we-deliver/:path/
+    - /emerging-technologies/:path/
+- text: Our Story
+#   permalink: /guides/
+  permalink: /our-story/
+- text: Our Community
+#   permalink: /how-we-work/
+  permalink: /our-community/
+# - text: Blog
+#   permalink: /blog/
+#   multiple_permalinks:
+#     - /blog/:path/
+#     - /tags/:path/
+#     - /author/:path/
+- text: Contact
+  permalink: /contact/
 
 footer:
-  - text: What we deliver
-    permalink: /what-we-deliver/
-    multiple_permalinks:
-    - /what-we-deliver/:path/
-  - text: About
-    permalink: /about/
-  - text: Partnership Principles
-    permalink: /partnership-principles/
-  - text: Join 18F
-    permalink: /join/
-  - text: Blog
-    permalink: /blog/
-    multiple_permalinks:
-      - /blog/:path/
-      - /tags/:path/
-      - /author/:path/
-  - text: Contact
-    permalink: /contact/
+- text: Emerging Technologies
+#   permalink: /what-we-deliver/
+  permalink: /emerging-technologies/
+  multiple_permalinks:
+#     - /what-we-deliver/:path/
+    - /emerging-technologies/:path/
+- text: Our Story
+#   permalink: /guides/
+  permalink: /our-story/
+- text: Our Community
+#   permalink: /how-we-work/
+  permalink: /our-community/
+# - text: Blog
+#   permalink: /blog/
+#   multiple_permalinks:
+#     - /blog/:path/
+#     - /tags/:path/
+#     - /author/:path/
+- text: Contact
+  permalink: /contact/
