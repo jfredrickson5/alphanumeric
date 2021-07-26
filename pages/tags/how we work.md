@@ -1,6 +1,6 @@
 ---
-permalink: /tags/how we work/
+permalink: /tags/our community/
 redirect_to:
-  - /tags/how-we-work/
+  - /tags/our-community/
 skip_index: true
 ---
