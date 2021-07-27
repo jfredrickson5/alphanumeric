@@ -33,9 +33,8 @@ Cryptocurrencies like Bitcoin are a digital representation of value and represen
 In addition to cryptocurrencies, there are a number of other efforts underway to make use of DLT. For example, Hyperledger Fabric is a permissioned and private blockchain framework created by the Hyperledger consortium to help develop DLT for a variety of business applications. The consortium is made up of companies such as Airbus, Cisco, American Express, IBM, and Intel.
 
 <div class="testimonial-blockquote">
-  The commitment of the team and the participation of 18F subject matter experts actually simplified our job.  While many organizations publicly buy into the concept and value of Agile, this team demonstrated how it would succeed.  Our sponsor was committed, our product owners were engaged, and with our 18F Agile leaders helping to demonstrate best practice – our workstreams coordinated seamlessly.
-    <span>- Sherry L. Weir, 
-    	Kearney & Company, prime contractor on the DATA Act project</span>
+  Distributed ledger technology (e.g. blockchain) allows users to carry out digital transactions without the need for a centralized authority. It could fundamentally change the way government and industry conduct business, but questions remain about how to mitigate fraud, money laundering, and excessive energy use.
+    <span>- U.S. Government Accountability Office</span>
 </div>
 
 <div class="small-caps">Opportunities</div>
