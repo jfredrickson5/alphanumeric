@@ -1,52 +1,51 @@
 ---
-agency: Department of Justice
-title: Improving access to justice through a user-friendly online submission experience
-subtitle: Building civilrights.justice.gov
+agency: Artificial Intelligence
+title: COMING SOON
+subtitle: As a nation, we have yet to grasp the full benefits or unwanted effects of artificial intelligence. AI is widely used, but how do we know it's working appropriately?
 permalink: /what-we-deliver/doj-crt/
 redirect_from: /project/doj-crt/
-excerpt: Developing a user-friendly online submission experience for the civil rights complaint portal
-image: /assets/blog/doj-crt-complaint-form.png
-image_accessibility: Screenshots of the new complaint portal interface
+excerpt: EXCERPT
+image: /assets/emergingtech/ai.gif
+image_accessibility: AI
 image_icon:
 project_weight: 12
 tag: civil rights
 expiration_date:
 github_repo:
-  - "[Project respository](https://github.com/18F/civil-rights-complaints)"
+  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
 project_url: 
-  - "[civilrights.justice.gov](https://civilrights.justice.gov/)"
+  - "[Government Accountability Office](https://www.gao.gov/products/gao-21-519sp)"
 learn_more:
 product_clients:
 resources:
 ---
 
-The Civil Rights Division (CRT) within the Department of Justice (DOJ) works to uphold the civil and constitutional rights of all Americans.
-It enforces federal statutes prohibiting discrimination on the basis of race, color, sex, disability, religion, familial status, and national origin. They do this through enforcement, education and coordination with other federal agencies.
+The field of artificial intelligence (AI)—a term first used in the 1950s—has gone through
+multiple waves of advancement over the subsequent decades. Today, AI can broadly be thought
+of as computerized systems that work and react in ways commonly thought to require intelligence, such as the ability to learn, solve problems, and achieve goals under uncertain and varying conditions. The field encompasses a range of methodologies and application areas, including machine learning (ML), natural language processing, and robotics.
 
-Currently, when citizens believe a civil rights violation has taken place, they can submit a complaint to the CRT in a variety of ways. CRT estimates that they receive over 100,000 reports per year sent by physical letter, email, phone, as well as some web submissions.
-Filing these reports was a confusing and inconsistent experience for the public, and most reports filed had missing or inaccurate data.
-As a result, CRT staff spent most of their time processing unactionable complaints instead of providing remedies for victims.
+In the past decade or so, increased computing power, the accumulation of big data, and advances in AI techniques have led to rapid growth in AI research and applications. Given these developments and the increasing application of AI technologies across economic sectors, stakeholders from academia, industry, and civil society have called for the federal government to become more knowledgeable about AI technologies and more proactive in considering public policies around their use.
 
 <div class="testimonial-blockquote">
-  Working with 18F and TTS really helped us identify some gaps and infrastructural needs in our organization.
-    <span>- Daniel Yi, Senior Counsel for Innovation for the United States Department of Justice's Civil Rights Division</span>
+  Artificial intelligence (AI) is a transformative technology with enormous potential for good. It is not only ubiquitous in all aspects of life, it is beginning to permeate the public sector and beyond, including health care, agriculture, law enforcement, manufacturing, transportation, and defense. Much of the power of AI comes from its ability to rapidly detect patterns in data that humans simply cannot comprehend. Bringing accountability to responsible use of this technology is therefore paramount to address inherent complexities, risks, and societal consequences.
+    <span>- Government Accountability Office</span>
 </div>
 
 <div class="small-caps">Approach</div>
-### Building a unified portal using human-centered design
+### Laws
 
-The CRT partnered with 18F and streamlined the complaint submission process to provide a more unified and straightforward experience for victims of civil rights violations.
+At least four laws enacted in the 116th Congress focused on AI or included
+AI-focused provisions.
+- The National Defense Authorization Act for FY2021 (P.L. 116-283) included provisions addressing various defense- and security-related AI activities, as well as the expansive National Artificial Intelligence Initiative Act of 2020 (Division E).
+- The Consolidated Appropriations Act, 2021 (P.L. 116-260) included the AI in Government Act of 2020 (Division U, Title I), which directed the General Services Administration to create an AI Center of Excellence to facilitate the adoption of AI technologies in the federal government.
+- The Identifying Outputs of Generative Adversarial Networks (IOGAN) Act (P.L. 116-258) supported research on Generative Adversarial Networks (GANs), the primary technology used to create deepfakes.
+- P.L. 116-94 established a financial program related to exports in AI among other areas.
 
-Together, we crafted design principles for the new experience, which subsequent designs, prototypes, and builds were tested against:
-- Informative, but clear and concise
-- Intuitive and prompts a narrative
-- Helpful and honest
-- Forward-thinking and relevant
+AI holds potential benefits and opportunities, but also challenges and pitfalls. For example, AI technologies can accelerate and provide insights into data processing; augment human decisionmaking; optimize performance for complex tasks and systems; and improve safety for people in dangerous occupations. On the other hand, AI systems may perpetuate or amplify
+bias, may not yet be fully able to explain their decisionmaking, and often depend on vast datasets that are not widely accessible to facilitate research and development (R&D). Further, stakeholders have questioned the adequacy of human capital in both the public and private sectors to develop and work with AI, as well as the adequacy of current laws and
+regulations for dealing with societal and ethical issues that may arise. Together, such challenges can lead to an inability to fully assess and understand the operations and outputs of AI systems—sometimes referred to as the “black box” problem.
 
-The result was the [Civil Rights Reporting Portal](civilrights.justice.gov), a unified portal for complaint intake and processing that improves user experience and transforms the way CRT collects, sorts, and responds to civil rights reports.
+Because of these questions and concerns, some stakeholders have advocated for slowing the pace of AI development and use until more research, policymaking, and preparation can occur. Others have countered that AI will make lives safer, healthier, and more productive, so the federal government should not attempt to slow it, but rather should give broad support to AI
+technologies and increase federal AI funding.
 
-Built on [cloud.gov](https://cloud.gov/) and using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/), the new Reporting Portal consolidates more than 30 unique reporting pathways into a single, coordinated experience. Thanks to cloud.gov, the site can scale with traffic, and CRT can minimize time spent on operations and management. Thanks to USWDS, the site can stay accessible and compliant with little to no design maintenance work required. With 18F’s help, both the public and CRT employees can benefit from a high-quality tool developed using Agile and Devsecops practices and that was delivered on time, on budget, and to a private sector standard.
-
-The portal dramatically eases the burden on victims of civil rights violations to identify the proper reporting channel. Now, the public will find it easier to tell their story, submit their report, and receive guidance on what to expect next.
-
-For Division staff, this new experience creates a more consistent, collaborative, and transparent process. It allows staff to easily review, sort, and redirect reports to the appropriate team for analysis. This saves time and energy, freeing up more capacity for the Division to focus on advancing civil rights. The portal reduces operational expenditure incurred with development, maintenance and security and scalability of the legacy systems. With a unified portal as the single source of data, CRT is able to draw business intelligence and spot trends and patterns. This allows the division to make more informed program decisions around processes, resourcing, hiring, etc. By developing resilient, reliable and secure systems, CRT is able to maintain the integrity of the data submitted via the new portal.
+In response to this debate, Congress has begun discussing issues such as the trustworthiness, potential bias, and ethical uses of AI; possible disruptive impacts to the U.S. workforce; the adequacy of U.S. expertise and training in AI; domestic and international efforts to set technological standards and testing benchmarks; and the level of U.S. federal investments in AI research and development and how that impacts U.S. international competitiveness. Congress is likely to continue grappling with these issues and working to craft policies that protect American citizens while maximizing U.S. innovation and leadership.
