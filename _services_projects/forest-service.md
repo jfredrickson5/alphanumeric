@@ -4,11 +4,11 @@ title: Less is More
 subtitle: Additive Manufacturing
 permalink: /what-we-deliver/forest-service/
 excerpt: Three-dimensional (3D) printing technology, also known as additive manufacturing, is expected to mature substantially in the coming decades to allow the use of new materials, faster production speeds, and lower costs.
-image: /assets/blog/forrest-service/xmas-tree-permit.png
+image: /assets/emergingtech/ppe.gif
 image_accessibility: 3D Printing
 image_icon:
 project_weight: 8
-tag: forest service
+tag: 3D Printing
 expiration_date:
 github_repo:
   - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
