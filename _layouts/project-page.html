@@ -68,21 +68,21 @@ header_border: true
 
         {% if page.agency %}
         <li class="section-info-list-item">
-          <div class="section-info-header">Agency partner</div>
+          <div class="section-info-header">Emerging Technology</div>
           <div>{{ page.agency }}</div>
         </li>
         {% endif %}
 
         {% if page.project_url %}
         <li class="section-info-list-item">
-          <div class="section-info-header">See our work</div>
+          <div class="section-info-header">Potential Applications</div>
           <div>{{ page.project_url | markdownify }}</div>
         </li>
         {% endif %}
 
         {% if page.github_repo %}
         <li class="section-info-list-item">
-          <div class="section-info-header">See the code on GitHub</div>
+          <div class="section-info-header">Projects</div>
             <ul class="{% unless page.github_repo.size > 1 %}usa-unstyled-list{% endunless %}">
             {% for repo in page.github_repo %}
               <li>{{ repo | markdownify }}</a></li>
@@ -93,7 +93,7 @@ header_border: true
 
         {% if page.product_clients.size > 0 %}
         <li class="section-info-list-item">
-          <div class="section-info-header">Agency partners</div>
+          <div class="section-info-header">Emerging Technologies</div>
           <ul class="{% unless page.product_clients.size > 1 %}usa-unstyled-list{% endunless %}">
           {% for client in page.product_clients %}
             <li>{{ client }}</li>
@@ -119,7 +119,7 @@ header_border: true
 
         {% if page.resources.size > 0 %}
         <li class="section-info-list-item">
-          <div class="section-info-header">Resources</div>
+          <div class="section-info-header">Resources & Artifacts</div>
           <ul class="{% unless page.resources.size > 1 %}usa-unstyled-list{% endunless %}">
             {% for resource in page.resources %}
               <li>{{ resource | markdownify }}</li>
