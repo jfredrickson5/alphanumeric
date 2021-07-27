@@ -1,8 +1,8 @@
 ---
-title: What we deliver
+title: Emerging Technologies
 permalink: /what-we-deliver/
 layout: primary
-lead: Strategies and services that help agencies provide excellent value to the public.
+lead: Summaries, strategies, and statuses of the latest in tech for Federal innovators.
 content_wide: true
 content_focus: false
 redirect_from:
@@ -19,10 +19,7 @@ gridless: true
   <section class="grid-row">
     <div class="tablet:grid-col-8">
       <p>
-        18F partners with federal agencies to improve the user experience of government 
-        services by helping them build and buy technology. If you're looking to implement 
-        a requirement, update a public-facing website, or digitize a process, 18F can work with 
-        you to build a product or craft and execute an effective agile acquisition strategy.
+        TechRadar partners with GSA offices and Federal agencies to accelerate emerging tech assessment, alignment, and action by connecting Federal innovators with new content and collaborators to create new value.
       </p>
     </div>
   </section>
@@ -31,7 +28,8 @@ gridless: true
 <div class="grid-container">
   <section class="usa-section break-bottom-gray">
     <div class="usa-section-bottom">
-      <h2>Case Studies</h2>
+      
+      <h2>Emerging Technologies</h2>
       <div class="grid-row grid-gap">
         {% assign featured_services = site.data.featured_services %}
         {% assign projects_list = site | find_collection: 'services_projects' | weighted_sort: 'project_weight', 'title' %}
@@ -61,10 +59,9 @@ gridless: true
 <section class="grid-container usa-section break-bottom-gray">
   <section class="pad-right-left">
     <div class="home-testimonial">
-      TechRadar’s philosophy to build everything openly by default has been a key success factor in our ability to build credibility with the external stakeholders who have been critical of us previously. More importantly, this way of building facilitates innovation in an eco-centric manner as opposed to just within the government or a few entities.
+      TechRadar offered my team and me a new space to not only find potential answers to whether a compeling use case existed for the emerging technology we were exploring, but also served as an invaluable sounding board of many Federal colleagues who helped us consider new questions we didn't even think to ask that moved the ball forward faster and smarter for our initiative.
       <span>
-        - Chang Charley, Former Deputy Assistant Secretary, Office of Accounting Policy & Financial Transparency
-      </span>
+        - Chang Charley, Former Deputy Assistant Secretary, Office of Budget & Policy      </span>
     </div>
   </section>
 </section>
