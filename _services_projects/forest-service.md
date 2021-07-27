@@ -1,10 +1,10 @@
 ---
-agency: U.S. Forest Service
+agency: 3D Printing
 title: Less is More
 subtitle: Additive Manufacturing
 permalink: /what-we-deliver/forest-service/
 excerpt: Three-dimensional (3D) printing technology, also known as additive manufacturing, is expected to mature substantially in the coming decades to allow the use of new materials, faster production speeds, and lower costs.
-image: /assets/blog/forrest-service/xmas-tree-permit.png
+image: /assets/emergingtech/ppe.gif
 image_accessibility: Screen shot of the Christmas tree permit website
 image_icon:
 project_weight: 8
