@@ -23,7 +23,6 @@ resources & artifacts:
     - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
 ---
 
-<div class="small-caps">Industries</div>
 There are plenty of companies already adopting additive manufacturing (3D Printing) in their production processes with a wide range of use cases. 
 Here we’ve pulled together a snapshot of information gathered from various public and federal websites to help provide a glimpse of what’s out there now and what may be next.  
 We are in no way endorsing or recommending any particular technique, company or approach to your specific 3D Printing needs.  Our intent is to provide some centralized resources of current and readily-available relevant information to the steadily-growing ecosystem.
