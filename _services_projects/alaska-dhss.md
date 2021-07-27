@@ -1,40 +1,56 @@
 ---
-agency: Alaska Department of Health and Social Services
-title: Modernizing access to healthcare
-subtitle: Modernizing public benefit eligibility systems
+agency: 5G, 6G, & Internet of Things
+title: Getting Smart & Secure
+subtitle: Smart Buildings & Cities
 permalink: /what-we-deliver/alaska-dhss/
 redirect_from: /project/alaska-dhss/
-excerpt: Introducing modern digital methods to the State of Alaska’s eligibility system modernization project.
-image: /assets/img/projects/alaska-flag.png
-image_accessibility: Alaska state flag. The flag consists of eight gold stars, forming the Big Dipper and Polaris, on a dark blue field.
+excerpt: The Internet of Things (IoT) is a collection of electronic devices that can share information among themselves without necessarily requiring human-to-machine interaction. 
+image: /assets/emergingtech/iot.gif
+image_accessibility: iot
 image_icon:
 project_weight: 3
 tag: alaska
 expiration_date:
 github_repo:
-  - "[Project respository](https://github.com/AlaskaDHSS/EIS-Modernization)"
-  - "[State of Alaska RFP for a Unified Search Interface](https://github.com/AlaskaDHSS/RFP-Search-Unification)"
+  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/IF/IF11239)"
+  - "[Government Accountability Office](https://www.gao.gov/products/gao-20-577)"
 project_url:
 learn_more:
 product_clients:
 resources:
 ---
 
-The Alaska Department of Health and Social Services administers public benefit programs, including Medicaid, for the State of Alaska. 
+### IoT Characteristics
 
-Their eligibility systems have performed well in the past, but the now outdated technology can make it difficult and time-consuming to make modifications in response to federal or state policy changes. The Department approached 18F to help them devise a procurement strategy and develop practices that would deliver better service to Alaskans in need and allow the State to be more responsive to policymakers in both Juneau and Washington. 
+IoT devices are often called “smart” devices because they have sensors and can conduct complex data analytics. IoT devices collect data using sensors and offer services to the
+user based on the analyses of that data and according to user-defined parameters. For example, a smart refrigerator uses sensors (e.g., cameras) to inventory stored items and
+can alert the user when items run low based on image recognition analyses. Sophisticated IoT devices can “learn” by recognizing patterns in user preferences and historical use data. An IoT device can become “smarter” as its program adjusts to improve its prediction capability so as to enhance user experiences or utility.
+
+IoT devices are connected to the internet: directly, through another IoT device, or both. Network connections are used for sharing information and interacting with users. The IoT
+creates linkages and connections between physical devices by incorporating software applications. IoT devices can enable users to access information or control devices from
+anywhere using a variety of internet-connected devices. For example, a smart doorbell and lock may allow a user to see and interact with the person at the door and unlock the door
+from anywhere using a mobile device or computer. 
 
 <div class="testimonial-blockquote">
-  Our experience with 18F has been much different. They have helped us learn agile development as members of our team. The daily standups have really helped us form a close working relationship with them. They have introduced us to a new tools that I expect we will continue to use when our work with them is completed.
-    <span>- Monica Windom, Director Division of Public Assistance, Health and Social Services, State of Alaska</span>
+  IoT generally refers to devices—from sensors in vehicles to building thermostats— that collect information, communicate it to a network, and may complete a task based on that information. Although IoT technologies may present an opportunity for the federal government to operate more efficiently and effectively, federal agencies may also face challenges in acquiring and using IoT.
+    <span>- Government Accountability Office</span>
 </div>
 
-<div class="small-caps">Approach</div>
-### Finding the right vendors through modular contracting and an open process
+<div class="small-caps">Issues</div>
+### Regulatory Issues
 
-Building on the work we’re doing with other states, 18F is helping introduce modular contracting, agile software development, DevOps, and user-centered design to the State of Alaska’s eligibility system modernization project. 
+Emerging and converging technologies, such as IoT, may not align wholly with federal agency
+oversight jurisdictions. New technologies may be left unregulated, partially regulated, or more fully regulated under a newly developed framework. They could also be left to self-regulate by the industry, which is the case for many consumer IoT devices. Federal regulation of IoT may entail policies for deconfliction, harmonization, and/or expansion of agency jurisdictions.
 
-During the course of this project, we’ve assisted the Alaska Department of Health and Social Services in releasing, awarding, and managing its very first modular procurement. To do this, 
-we used a transparent procurement process starting with laying out the product vision statement, strategy, and roadmap in a publicly-accessible [GitHub repository](https://github.com/AlaskaDHSS/RFP-Search-Unification). In support of this work, we also helped the Alaska Department of Health and Social Services develop and adopt a CI/CD pipeline, build lean prototypes to de-risk technology issues, embrace open source for their procurement work, and develop their first ever product roadmap.
+### Digital Privacy Issues
 
-This project has the potential to change not only the way that the Alaska Department of Health and Social Services approaches legacy system modernization but to have an impact on other agencies across the state as well.
+The IoT facilitates increased collection and consumption of data, posing potential privacy concerns. A piece or aggregation of the collected information could be used to identify, locate, track, or monitor an individual without the person’s knowledge. The revealed patterns in their activities may also be exploited.  The dilemma lies in that digital privacy and the advancement of smart technologies like IoT may be in direct opposition. Increased data collection and usage may yield innovation, technological progress, and improved utility, but could also lead to the erosion of privacy and data exploitation without consent.
+
+### Data Security Issues
+
+Connected devices and systems offer the possibility of ubiquitous access, which equates to more possible entry points for both authorized and unauthorized users. As more devices become connected to one another and to the internet, the risk and impact of a compromise
+increase, along with the possibility of a cascading cyberattack. Data security is a tradeoff to consider between convenience and vulnerability.  
+
+The IoT links cybersecurity and physical security. For example, when smart doors and locks are remotely controlled by a malicious actor through cyberattack, the physical security of that building also becomes compromised. The damage may not be limited to loss of digital content or information. Loss of data physically stored in the compromised location as well as personal security could be jeopardized.
+
+Many IoT devices do not employ strong encryption at the device or user interface level. Not implementing strong encryption may be intentional due to associated benefits—it usually reduces cost, increases battery life of devices, minimizes memory requirements, reduces device size, and is easier to use or implement. However, a system may become easier to break into if IoT devices are the most vulnerable points of a system.
