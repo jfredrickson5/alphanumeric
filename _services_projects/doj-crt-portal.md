@@ -1,6 +1,6 @@
 ---
 agency: Artificial Intelligence
-title: COMING SOON
+title: Leveraging the Power of Big Data
 subtitle: As a nation, we have yet to grasp the full benefits or unwanted effects of artificial intelligence. AI is widely used, but how do we know it's working appropriately?
 permalink: /what-we-deliver/doj-crt/
 redirect_from: /project/doj-crt/
@@ -17,6 +17,7 @@ project_url:
   - "[Government Accountability Office](https://www.gao.gov/products/gao-21-519sp)"
   - "[The National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
   - "[The Global Partnership on Artificial Intelligence](https://gpai.ai/)"
+  - "[National Artificial Intelligence Initiative](https://ai.gov)"
 learn_more:
 product_clients:
 resources:
@@ -33,7 +34,7 @@ In the past decade or so, increased computing power, the accumulation of big dat
     <span>- Government Accountability Office</span>
 </div>
 
-<div class="small-caps">Approach</div>
+<div class="small-caps">Governance</div>
 ### Laws
 
 At least four laws enacted in the 116th Congress focused on AI or included
