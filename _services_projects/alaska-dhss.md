@@ -5,7 +5,7 @@ subtitle: Smart Buildings & Cities
 permalink: /what-we-deliver/alaska-dhss/
 redirect_from: /project/alaska-dhss/
 excerpt: The Internet of Things (IoT) is a collection of electronic devices that can share information among themselves without necessarily requiring human-to-machine interaction. 
-image: /assets/emergingtech/smartbuilding.jpg
+image: /assets/emergingtech/iot.gif
 image_accessibility: iot
 image_icon:
 project_weight: 3
