@@ -12,15 +12,15 @@ project_weight: 12
 tag: civil rights
 expiration_date:
 github_repo:
-  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
 project_url: 
+learn_more:
+product_clients:
+resources:
+  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
   - "[Government Accountability Office](https://www.gao.gov/products/gao-21-519sp)"
   - "[The National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
   - "[The Global Partnership on Artificial Intelligence](https://gpai.ai/)"
   - "[National Artificial Intelligence Initiative](https://ai.gov)"
-learn_more:
-product_clients:
-resources:
 ---
 
 The field of artificial intelligence (AI)—a term first used in the 1950s—has gone through
