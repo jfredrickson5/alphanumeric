@@ -1,6 +1,6 @@
 ---
 agency: Artificial Intelligence
-title: Leveraging the Power of Big Data
+title: Equitably Leveraging the Power of Big Data
 subtitle: As a nation, we have yet to grasp the full benefits or unwanted effects of artificial intelligence. AI is widely used, but how do we know it's working appropriately?
 permalink: /what-we-deliver/doj-crt/
 redirect_from: /project/doj-crt/
@@ -30,12 +30,13 @@ of as computerized systems that work and react in ways commonly thought to requi
 In the past decade or so, increased computing power, the accumulation of big data, and advances in AI techniques have led to rapid growth in AI research and applications. Given these developments and the increasing application of AI technologies across economic sectors, stakeholders from academia, industry, and civil society have called for the federal government to become more knowledgeable about AI technologies and more proactive in considering public policies around their use.
 
 <div class="testimonial-blockquote">
-  Artificial intelligence (AI) is a transformative technology with enormous potential for good. It is not only ubiquitous in all aspects of life, it is beginning to permeate the public sector and beyond, including health care, agriculture, law enforcement, manufacturing, transportation, and defense. Much of the power of AI comes from its ability to rapidly detect patterns in data that humans simply cannot comprehend. Bringing accountability to responsible use of this technology is therefore paramount to address inherent complexities, risks, and societal consequences.
-    <span>- Government Accountability Office</span>
+  We have seen AI providing conversation and comfort to the lonely; we have also seen AI engaging in racial discrimination. Yet the biggest harm that AI is likely to do to individuals in the short term is job displacement, as the amount of work we can automate with AI is vastly larger than before. As leaders, it is incumbent on all of us to make sure we are building a world in which every individual has an opportunity to thrive.
+    <span>- Eric Schmidt, Chairman, NSCAI</span>
 </div>
 
 <div class="small-caps">Governance</div>
-### Laws
+
+### Applicable Laws
 
 At least four laws enacted in the 116th Congress focused on AI or included
 AI-focused provisions.
