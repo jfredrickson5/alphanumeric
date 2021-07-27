@@ -27,6 +27,7 @@ There are plenty of companies already adopting additive manufacturing (3D Printi
 Here we’ve pulled together a snapshot of information gathered from various public and federal websites to help provide a glimpse of what’s out there now and what may be next.  
 We are in no way endorsing or recommending any particular technique, company or approach to your specific 3D Printing needs.  Our intent is to provide some centralized resources of current and readily-available relevant information to the steadily-growing ecosystem.
 
+<div class="small-caps">Industries</div>
 ### Aerospace & Defense
 The aerospace industry relies on many small parts to withstand extreme temperatures and chemicals while remaining as light as possible. If certain small parts fail they can result in catastrophic whole system failures on aircraft carrying people, cargo, and other items 35k feet in the sky. 3D printing for inspection tooling is also being used to reduce costs for low-volume or very old legacy airplane parts. We also wouldn’t have to solely rely on ‘Airplane graveyards’ for the most rare aging pieces from mostly whole planes stored at these massive installations. 
 
