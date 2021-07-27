@@ -1,9 +1,9 @@
 ---
-agency: U.S. Forest Service
-title: Moving land permits online
-subtitle: Easing access to public lands
+agency: 3D Printing
+title: Less is More
+subtitle: Additive Manufacturing
 permalink: /what-we-deliver/forest-service/
-excerpt: Using prototypes and modular contracting to help the Forest Service buy and develop an online permitting system.
+excerpt: Three-dimensional (3D) printing technology, also known as additive manufacturing, is expected to mature substantially in the coming decades to allow the use of new materials, faster production speeds, and lower costs.
 image: /assets/blog/forrest-service/xmas-tree-permit.png
 image_accessibility: Screen shot of the Christmas tree permit website
 image_icon:
