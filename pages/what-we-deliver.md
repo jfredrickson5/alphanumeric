@@ -59,12 +59,11 @@ gridless: true
 <section class="grid-container usa-section break-bottom-gray">
   <section class="pad-right-left">
     <div class="home-testimonial">
-      TechRadar offered my team and me a new space to not only find potential answers to whether a compeling use case existed for the emerging technology we were exploring, but also served as an invaluable sounding board of many Federal colleagues who helped us consider new questions we didn't even think to ask that moved the ball forward faster and smarter for our initiative.
+      TechRadar offered my team and me a new space to not only find potential answers to whether a compeling use case existed for the emerging technology we were exploring, but also provided an invaluable sounding board of many Federal colleagues who helped us consider new questions we didn't even think to ask that moved the ball forward faster and smarter for our project.
       <span>
         - Chang Charley, Former Deputy Assistant Secretary, Office of Budget & Policy      </span>
     </div>
   </section>
-</section>
 
 <!-- <div class="usa-section background-gray">
   <section class="grid-container">
@@ -91,5 +90,3 @@ gridless: true
       {% endfor %}
       </ul>
     </div> -->
-  </section>
-</div>
