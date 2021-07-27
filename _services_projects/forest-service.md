@@ -18,7 +18,7 @@ learn_more:
 product_clients:
 resources & artifacts:
     - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
-    - "[Cost & Materials](https://gsa.gov/3dprint)
+    - "[Cost & Materials](https://gsa.gov/3dprint)"
     - "[Governance](https://gsa.gov/3dprint)"
     - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
 ---
