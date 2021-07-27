@@ -15,6 +15,8 @@ github_repo:
   - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
 project_url: 
   - "[Government Accountability Office](https://www.gao.gov/products/gao-21-519sp)"
+  - "[The National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
+  - "[The Global Partnership on Artificial Intelligence](https://gpai.ai/)"
 learn_more:
 product_clients:
 resources:
