@@ -1,4 +1,4 @@
----
+<!-- ---
 agency: General Services Administration
 title: Better tools for better research
 subtitle: Streamlining a critical contracting task
@@ -31,3 +31,4 @@ When GSA asked 18F to help improve this process, we started by gathering the doc
 GSA contracting officers have reported that the tool is vastly more efficient and accurate than the previous method, and has helped contracting officers save on labor rates by an average of .1 percent. While this may seem small, the size of federal contracting means a .1 percent improvement could help save the government hundreds of millions of dollars each year.
 
 The CALC team is now working to make it easier to get new data into the tool and to expand the number and type of contracts in the database. As it matures, the tool gets more powerful and useful to a wider audience of contracting officers and members of the public.
+ -->
