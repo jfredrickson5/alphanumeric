@@ -1,41 +1,48 @@
 ---
-agency: U.S. Forest Service
-title: Moving land permits online
-subtitle: Easing access to public lands
+agency: 3D Printing
+title: Less is More
+subtitle: Additive Manufacturing
 permalink: /what-we-deliver/forest-service/
-excerpt: Using prototypes and modular contracting to help the Forest Service buy and develop an online permitting system.
+excerpt: Three-dimensional (3D) printing technology, also known as additive manufacturing, is expected to mature substantially in the coming decades to allow the use of new materials, faster production speeds, and lower costs.
 image: /assets/blog/forrest-service/xmas-tree-permit.png
-image_accessibility: Screen shot of the Christmas tree permit website
+image_accessibility: 3D Printing
 image_icon:
 project_weight: 8
 tag: forest service
 expiration_date:
 github_repo:
-  - "[Project repository](https://github.com/18F/fs-online-permitting)"
-  - "[U.S. Forest Service Permit Platform](https://github.com/18F/fs-permit-platform)"
-  - "[ePermit Middlelayer API](https://github.com/18F/fs-middlelayer-api)"
+  - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
+
 project_url:
 learn_more:
 product_clients:
-resources:
-    - "[e-Permit API task order](https://github.com/18F/bpa-fs-epermit-api)"
-    - "[e-Permit intake task order](https://github.com/18F/bpa-fs-epermit-intake)"
-    - "[Christmas tree task order](https://github.com/18F/bpa-fs-xmas-trees)"
+resources & artifacts:
+    - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
+    - "[Cost & Materials](https://gsa.gov/3dprint)
+    - "[Governance](https://gsa.gov/3dprint)"
+    - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
 ---
 
-The U.S. Department of Agriculture’s Forest Service issues permits to the public for activities such as outfitting trips, large scale events, and Christmas trees harvests. The Forest Service wanted to make their permits and applications available online to create a more predictable application process that was not limited to regular business hours.
+<div class="small-caps">Industries</div>
+There are plenty of companies already adopting additive manufacturing (3D Printing) in their production processes with a wide range of use cases. 
+Here we’ve pulled together a snapshot of information gathered from various public and federal websites to help provide a glimpse of what’s out there now and what may be next.  
+We are in no way endorsing or recommending any particular technique, company or approach to your specific 3D Printing needs.  Our intent is to provide some centralized resources of current and readily-available relevant information to the steadily-growing ecosystem.
 
-<div class="small-caps">Approach</div>
-### Breaking the work into modules
+### Aerospace & Defense
+The aerospace industry relies on many small parts to withstand extreme temperatures and chemicals while remaining as light as possible. If certain small parts fail they can result in catastrophic whole system failures on aircraft carrying people, cargo, and other items 35k feet in the sky. 3D printing for inspection tooling is also being used to reduce costs for low-volume or very old legacy airplane parts. We also wouldn’t have to solely rely on ‘Airplane graveyards’ for the most rare aging pieces from mostly whole planes stored at these massive installations. 
 
-Before helping Forest Service hire vendors to build a permit tool, we conducted a series of workshops with the Forest Service to investigate the business process behind permit applications. With that information, we built a small prototype of an online permit tool that could address their issues. We tested this prototype with both public and Forest Service staff users and used that research to draft an RFP using 18F's Agile Blanket Purchase Agreement.
+### Automotive
+"The real value in 3D printed parts for automotive manufacturers doesn’t currently lie in printed parts going on cars, but instead for the tooling and fixtures that aid the manufacturing process. The most common parts printed by automotive manufacturers are fixtures, cradles, and prototypes, which need to be stiff and strong, and durable”
 
-Instead of putting the entire permit application tool into one RFP, we started by procuring a team to build an API to connect to a legacy system within the Forest Service. By breaking the work into pieces (called modules), the Forest Service was able to get functionality quickly while reducing risk on each module.
+### Education
+“From professors printing parts for educational tools to convey the lesson plan to PhD students utilizing the printers for research, 3D printers serve a variety of purposes in colleges. Colleges like Purdue University in Indiana have taken a great interest in teaching its students about emerging additive manufacturing materials and technology.”
 
-The Forest Service and vendor team built the initial API module in four months. We provided technical and design guidance to the vendor as well as coaching and strategies for the Forest Service to serve as product owners.
+### Health
+People have been predicting that 3D printing will revolutionize health care for over a decade.  Others have dismissed it as a fad. Because of the time and difficulty involved, the technology was initially seen as a way to help physicians plan for rare surgeries. Mayo Clinic, one of the early adopters of 3D printing in hospitals, first used it to plan the separation of conjoined twins in 2006.
+But as 3D modeling and printing have become easier, hospitals increasingly see it as a tool for any tricky operation, such as surgery on the heart, a complex organ that moves constantly.  Outside of surgical planning, physicians and stakeholders are using the technology to create custom surgical tools, prosthetics and stents, and even printing bio-matter like living tissue, bone, blood vessels, and, organs, among other applicatio
 
-With the API module in hand and working well, we then helped the Forest Service draft, award, and manage additional RFPs to build a public-facing application including a module to support Christmas tree permits and a module to support Special Uses permits. We also integrated the application with [login.gov](http://login.gov) so users could securely log in to the system and [Pay.gov](https://pay.gov) for credit card payment processing.
+### Manufacturing
+“From jigs and fixtures all the way to end-of-arm tooling, 3D printers are completely turning the decades-old manufacturing industry on its head. Companies are able to create custom, low-volume tooling and fixtures at a fraction of the traditional price, giving designers and engineers more time to spend on revenue-generating parts. Small manufacturers get the same advantages with a 3D printer as giant, global manufacturers, to improve and expedite processing while mitigating downtime. Companies are also able to have more creative freedom while saving on labor costs and time. Metal fabrication company Lean Machine, for instance, has approached 3D printing with a design for additive manufacturing (DFAM) approach, saving them upwards of $4000 per tool.”
 
-In 2018, the system received its Authority to Operate (ATO), and we deployed the Christmas tree module into production for four pilot forests so we can learn how the product works for its users. From here, we'll support the Forest Service as they expand the service to additional users.
-
-Breaking the system into modules and using modular contracts allowed the Forest Service to see results quickly, reduce risk on each module, and deliver a service that meets the needs of users. The 18F team used each module to help the Forest Service learn new software development and contract management techniques that will help them continue to be a better buyer of technology.
+### Robotics
+"Instead of paying large amounts of money for a non-customized design, 3D printers allow robotics companies to design and fabricate light, complex parts such as end-of-arm tooling at a fraction of the cost. Haddington Dynamics, for example, is utilizing its four printers to create 3D printed robot arms for NASA and GoogleX for 58% less than traditional manufacturing.”
