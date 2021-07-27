@@ -11,16 +11,16 @@ project_weight: 8
 tag: forest service
 expiration_date:
 github_repo:
-  - "[Project repository](https://github.com/18F/fs-online-permitting)"
-  - "[U.S. Forest Service Permit Platform](https://github.com/18F/fs-permit-platform)"
-  - "[ePermit Middlelayer API](https://github.com/18F/fs-middlelayer-api)"
+  - "[GSA 3D Printing/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
 project_url:
 learn_more:
 product_clients:
-resources:
-    - "[e-Permit API task order](https://github.com/18F/bpa-fs-epermit-api)"
-    - "[e-Permit intake task order](https://github.com/18F/bpa-fs-epermit-intake)"
-    - "[Christmas tree task order](https://github.com/18F/bpa-fs-xmas-trees)"
+resources:  
+    - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
+    - "[Cost & Materials](https://gsa.gov/3dprint)"
+    - "[Governance](https://gsa.gov/3dprint)"
+    - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
+
 ---
 
 The U.S. Department of Agriculture’s Forest Service issues permits to the public for activities such as outfitting trips, large scale events, and Christmas trees harvests. The Forest Service wanted to make their permits and applications available online to create a more predictable application process that was not limited to regular business hours.
