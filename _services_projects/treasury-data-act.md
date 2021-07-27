@@ -1,26 +1,36 @@
 ---
-agency: Department of the Treasury
-title: Implementing a government-wide law
-subtitle: A new way to track federal spending
+agency: Blockchain & Distributed Ledger Technology
+title: More to it than Bitcoin & Crypto
+subtitle: Distributed ledger technology allows the secure transfer of digital assets without management by a central authority. Instead, participants share synchronized copies of a ledger that records assets and transactions. Changes are visible to all participants. Questions remain about the technology, including where it may be most useful, how best to regulate it, and how to mitigate its use in illegal activities.
 permalink: /what-we-deliver/data-act/
-excerpt: Implementing the Digital Accountability and Transparency Act with one of the largest government-wide agile projects ever undertaken.
-image: /assets/img/projects/data-act-better-data.jpg
-image_accessibility: Data Act logo alongside the words Better Data
+excerpt: The technology that allows Bitcoin and other cryptocurrencies to function could profoundly change the way government and industry do business. 
+image: /assets/emergingtech/blockchain.gif
+image_accessibility: Blockchain
 image_icon:
 project_weight: 11
 tag: data act
 expiration_date:
-github_repo:
-   - "[USAspending.gov code](https://github.com/fedspendingtransparency/usaspending-website)"
-   - "[Data broker back end](https://github.com/fedspendingtransparency/data-act-broker-backend)"
-   - "[Additional DATA Act code repositories](https://github.com/fedspendingtransparency)"
-resources: "[Federal Spending Transparency collaboration space](https://pages.18f.gov/fedspendingtransparency.github.io/index.html)"
-project_url: "[USAspending.gov](https://www.usaspending.gov/#/)"
+resources:
+   - "[U.S. Government Accountability Office](https://www.gao.gov/products/gao-19-704sp)"
+   - "[Congressional Research Service](https://fas.org/sgp/crs/misc/R45116.pdf)"
 ---
 
-The U.S. federal government spends $3.8 trillion every year, which is managed by the U.S. Department of the Treasury. For most people, it’s difficult to know exactly where that money goes.
+<div class="small-caps">Background</div>
 
-The Digital Accountability and Transparency Act (DATA Act), which became law in 2014, requires that federal agencies adopt a common data standard so that agencies and the public can better understand how federal money is being spent. Treasury and the Office of Management and Budget are leading the implementation of the DATA Act, but they needed help developing the specifics of the new data standard and its technical implementation.
+### What is it?
+
+Distributed ledger technologies (DLT) like Blockchain are a secure way of conducting and recording transfers of digital assets without the need for a central authority. It is "distributed" because multiple participants in a computer network (individuals, businesses, etc.) share and synchronize copies of the ledger. New transactions are added in a manner that is cryptographically secured, permanent, and visible to all participants in near real time.
+
+### How does it work?
+Distributed ledgers do not need a central, trusted authority because as transactions are added, they are verified using what is known as a consensus protocol. Blockchain, for example, ensures the ledger is valid because each "block" of transactions is cryptographically linked to the previous block so that any change would alert all other users. With an agreement on that history, users may then conduct a new transaction with a shared understanding of who has which resource.
+
+Distributed ledgers can be either "permissioned" or "unpermissioned". With unpermissioned ledgers, which are generally public, any participant can conduct a transaction.Permissioned ledgers may or may not be public, but only trusted users can conduct transactions.
+
+How mature is it? Businesses have been using ledgers to record transactions for thousands of years, and a defining characteristic of such ledgers was their reliance on central management. Furthermore, DLT is not a new technology, but an innovative way of using existing, mature technologies. In October 2008, an unknown author using the name Satoshi Nakamoto published a white paper called "Bitcoin – A Peer-to-Peer Electronic Cash System", which is credited as the first theoretical framework of a DLT. In January 2009 the service the paper described was launched.
+
+Cryptocurrencies like Bitcoin are a digital representation of value and represent the best-known use case for DLT. The regulatory and legal frameworks surrounding cryptocurrencies remain fragmented across countries, with some implicity or explicity banning them, and others allowing them.
+
+In addition to cryptocurrencies, there are a number of other efforts underway to make use of DLT. For example, Hyperledger Fabric is a permissioned and private blockchain framework created by the Hyperledger consortium to help develop DLT for a variety of business applications. The consortium is made up of companies such as Airbus, Cisco, American Express, IBM, and Intel.
 
 <div class="testimonial-blockquote">
   The commitment of the team and the participation of 18F subject matter experts actually simplified our job.  While many organizations publicly buy into the concept and value of Agile, this team demonstrated how it would succeed.  Our sponsor was committed, our product owners were engaged, and with our 18F Agile leaders helping to demonstrate best practice – our workstreams coordinated seamlessly.
@@ -28,11 +38,41 @@ The Digital Accountability and Transparency Act (DATA Act), which became law in 
     	Kearney & Company, prime contractor on the DATA Act project</span>
 </div>
 
-<div class="small-caps">Approach</div>
-### Stay flexible to stay ahead of schedule
+<div class="small-caps">Opportunities</div>
+### Transparency
 
-18F helped build a prototype for the technical implementation of the law to get user feedback before all of the data standards had been finalized. Our iterative approach allowed Treasury to reduce risk, use actual data to make decisions, and speed up implementation of a very complex law.
+Because any user can view the ledger, DLT may result in benefits such as reduced corruption.
 
-After the initial prototype, Treasury was able to hire a vendor to build the new USAspending.gov, which will give the public powerful tools to examine federal spending. 18F has worked with Treasury and the private vendor to design the site and talk to users to make sure we’re building the best solution possible.
+### Reduced Labor Costs 
 
-DATA Act implementation is one of the largest government-wide agile projects ever undertaken. As the multi-agency implementation team works to efficiently ingest information from across the government, 18F has been able to provide the development expertise, procurement strategy, and product management to ensure a successful project.
+DLT reduces or eliminates the need for human workers to track data.
+
+### Data Quality and Reliability 
+
+Transaction information is automatically generated by a computer, which may reduce errors.
+
+### Wide Applicability 
+
+DLT is being explored for use across many sectors, including supply chain and logistics, news, energy, healthcare, and government. For example, Target built a system now known as ConsenSource to verify products are sourced sustainably. The New York Times created the News Provenance Project to explore a blockchain-based system for recording and sharing information published by news organizations.
+
+<div class="small-caps">Challenges</div>
+
+### Excessive Energy Usage
+
+Some uses of DLT can be costly to operate. For example, cryptocurrencies using “proof-of-work” consensus protocols (also known as “mining”) require large amounts of computing power and energy to generate new units of currency.
+
+### Collusion
+
+Security of the network relies on the consensus protocol that maintains the ledger, and research has shown that users who collude could gain enough influence to maniuplate the ledger to their benefit and gradually disrupt the protocol.
+
+### Security 
+
+Entities using DLT will need to ensure data stored on a permissioned ledger is not accessible to outside actors. Additionally, holders of cryptocurrency can have their digital wallets hacked and their currency stolen.
+
+### Permanence 
+
+While the permanence of transactions may be a core strength of DLT, it can also be a weakness should an entity find that it needs to regularly correct errors in its ledger, as it would be unable to easily do so with DLT.
+
+### Lack of transparency 
+
+Because DLT can be used without a central authority, governments may feel uncomfortable allowing cryptocurrencies (or other DLT) to be used as a method of exchange or contracting, since they cannot easily be tracked and could be used to facilitate illicit activity (such as tax evasion and money laundering).
