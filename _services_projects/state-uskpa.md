@@ -1,35 +1,30 @@
 ---
-agency: Department of State
-title: Fitting our analysis to your challenge
-subtitle: Improving the tracking of rough diamonds
+agency: Robotics & Automation
+title: PLACEHOLDER 1
+subtitle: PLACEHOLDER 2
 permalink: /what-we-deliver/state-uskpa/
 redirect_from: /project/state-uskpa/
-excerpt: Leveraging our technical expertise with USKPA's program knowledge to improve the tracking of rough diamonds
-image: /assets/img/projects/uskpa.png
-image_accessibility: Screenshot of the uskpa.org front page
+excerpt: EXERCEPT
+image: /assets/emergingtech/robotics.gif
+image_accessibility: Robotics
 project_weight: 10
 tag: uskpa
 expiration_date:
-github_repo:
-    - "[USKPA project code](https://github.com/USKPA-dev/uskpa)"
-project_url: "[The United States Kimberley Process Authority website](https://www.uskpa.org/)"
 resources:
+    - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
 ---
 
-The Kimberley Process is an “international, multi-stakeholder initiative created to increase transparency and oversight in the diamond industry in order to eliminate trade in conflict diamonds, or rough diamonds sold by rebel groups or their allies to fund conflict against legitimate governments.” The Department of State, in conjunction with the US Kimberley Process Authority (USKPA), manages domestic implementation to
-ensure U.S. efforts are in compliance with the [Kimberley Process](https://www.state.gov/e/eb/tfs/tfc/diamonds/index.htm).
+<div class="small-caps">Background</div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis sapien at tempus porta. Morbi aliquet varius metus, quis dapibus augue aliquam vitae. Morbi pretium in sem et varius. Vestibulum eget leo non libero fermentum rutrum. Etiam vel bibendum felis. Duis nec urna volutpat, tristique lorem at, dignissim est. Proin consectetur porttitor ligula, at gravida mi posuere sit amet. Morbi tristique, sem ut vestibulum scelerisque, ante ipsum commodo erat, in dapibus sem sem at ligula. Nulla sed vestibulum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra accumsan tempor. Suspendisse tempus condimentum tortor, vitae consectetur mi malesuada quis. Aliquam molestie scelerisque euismod.
 
-USKPA.org is the website the USKPA uses to administer and control the usage of U.S. Kimberley Process certificates for the export of rough diamonds from the United States. In addition, U.S. agencies involved in implementing the Kimberley Process, including the U.S. Census Bureau, Customs and Border Protection, and the Department of State use it as part of efforts to help keep track of all certified licensee shipments.
+In suscipit auctor mi. Nunc in enim aliquet, convallis justo vitae, blandit felis. Aliquam erat volutpat. Donec ornare leo leo, sit amet vestibulum lacus ultricies a. Etiam nec posuere odio, sed finibus magna. Donec sollicitudin ex eget mauris pharetra, id maximus tellus mollis. Donec molestie purus lorem, et lobortis nisi dictum sed. Aenean sit amet dui sed dolor venenatis blandit eget id odio. Phasellus iaculis sem eget enim scelerisque volutpat. Cras non magna accumsan, sagittis ipsum nec, feugiat velit.
 
-The platform needed an overhaul to ensure it could continue to meet the needs of all users from a technical and functional perspective. Among key concerns, it required a complicated process to complete updates. In addition, the site design and interface did not meet the needs of either the licensees or the administrators. Though the website had numerous challenges, the State Department and USKPA had a limited operating budget for improvements.
+Suspendisse potenti. Curabitur scelerisque augue velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi finibus leo nunc, nec maximus enim hendrerit eu. Etiam diam lacus, viverra ut massa in, mattis ultricies leo. Sed porta vulputate felis, vel ultrices nisl volutpat a. Phasellus dapibus scelerisque lorem sed venenatis. Pellentesque nec viverra augue. Duis congue eleifend mollis. In justo lorem, lacinia ut dolor id, tempus lacinia dui. Phasellus blandit nisi purus, sed interdum eros molestie in. Fusce egestas ligula metus, non ornare ante consequat ut. Etiam nec diam faucibus, laoreet sem id, consectetur massa. Maecenas rhoncus mollis urna, quis tempor risus molestie elementum. Duis egestas dolor eu dignissim malesuada.
 
-In need of direction and a solution that fit its budget, the State Department reached out to 18F to evaluate the system through a Path Analysis.
+<div class="small-caps">Issues</div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis sapien at tempus porta. Morbi aliquet varius metus, quis dapibus augue aliquam vitae. Morbi pretium in sem et varius. Vestibulum eget leo non libero fermentum rutrum. Etiam vel bibendum felis. Duis nec urna volutpat, tristique lorem at, dignissim est. Proin consectetur porttitor ligula, at gravida mi posuere sit amet. Morbi tristique, sem ut vestibulum scelerisque, ante ipsum commodo erat, in dapibus sem sem at ligula. Nulla sed vestibulum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra accumsan tempor. Suspendisse tempus condimentum tortor, vitae consectetur mi malesuada quis. Aliquam molestie scelerisque euismod.
 
-<div class="small-caps">Approach</div>
-### Working efficiently with our partners to stay within budget
+In suscipit auctor mi. Nunc in enim aliquet, convallis justo vitae, blandit felis. Aliquam erat volutpat. Donec ornare leo leo, sit amet vestibulum lacus ultricies a. Etiam nec posuere odio, sed finibus magna. Donec sollicitudin ex eget mauris pharetra, id maximus tellus mollis. Donec molestie purus lorem, et lobortis nisi dictum sed. Aenean sit amet dui sed dolor venenatis blandit eget id odio. Phasellus iaculis sem eget enim scelerisque volutpat. Cras non magna accumsan, sagittis ipsum nec, feugiat velit.
 
-18F’s two-person team began the Path Analysis, exploring the USKPA data, user interface, and website. During the first round of interviews and demonstrations, the team members identified the problem statement and path forward. Feeling confident in the initial findings, they presented a detailed, prioritized, three-tiered product vision for the replacement solution. The team leveraged its technical expertise and innate understanding of the federal landscape to readily identify the partner’s needs.
+Suspendisse potenti. Curabitur scelerisque augue velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi finibus leo nunc, nec maximus enim hendrerit eu. Etiam diam lacus, viverra ut massa in, mattis ultricies leo. Sed porta vulputate felis, vel ultrices nisl volutpat a. Phasellus dapibus scelerisque lorem sed venenatis. Pellentesque nec viverra augue. Duis congue eleifend mollis. In justo lorem, lacinia ut dolor id, tempus lacinia dui. Phasellus blandit nisi purus, sed interdum eros molestie in. Fusce egestas ligula metus, non ornare ante consequat ut. Etiam nec diam faucibus, laoreet sem id, consectetur massa. Maecenas rhoncus mollis urna, quis tempor risus molestie elementum. Duis egestas dolor eu dignissim malesuada.
 
-The team executed the Path Analysis in two weeks instead of the typical eight weeks, allowing the remaining time and funds to be used for building a new solution. The result is a complete upgrade of the certificate tracking system including a rebuilt database with increased usability, security, support, and data accuracy. It also includes additional features such as improved search, an address book, and the ability to manage certificate modification electronically; items which were previously managed manually outside the system.
-
-The USKPA site also received a complete design update: a new USKPA logo, refreshed visual styling, and improved information architecture. In addition, the 18F team provided the documentation and training necessary for a successful handoff, enabling the partner to continue to enhance the site on its own in the future. By the end of the project, the USKPA improved its oversight capabilities and increased transparency in the diamond industry for less than $250,000.
