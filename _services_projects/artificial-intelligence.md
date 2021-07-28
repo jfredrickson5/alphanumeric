@@ -54,3 +54,9 @@ Because of these questions and concerns, some stakeholders have advocated for sl
 technologies and increase federal AI funding.
 
 In response to this debate, Congress has begun discussing issues such as the trustworthiness, potential bias, and ethical uses of AI; possible disruptive impacts to the U.S. workforce; the adequacy of U.S. expertise and training in AI; domestic and international efforts to set technological standards and testing benchmarks; and the level of U.S. federal investments in AI research and development and how that impacts U.S. international competitiveness. Congress is likely to continue grappling with these issues and working to craft policies that protect American citizens while maximizing U.S. innovation and leadership.
+
+<div class="small-caps">Governance</div>
+
+### Global Emerging Technology Summit 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MkJs-eRPABg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
