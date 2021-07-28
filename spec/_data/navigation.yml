@@ -179,14 +179,14 @@ assigned:
 #                 in_drawer: false
 #                 in_footer: false
 #                 in_subnav: true
-    -
-        text: TechNews
-        href: blog/index.html
-        permalink: /blog/
-        permalink_alt: /tags/
-        collections: ['authors', 'posts']
-        in_menu: true
-        in_drawer: true
-        in_footer: true
-        children:
+#     -
+#         text: TechNews
+#         href: blog/index.html
+#         permalink: /blog/
+#         permalink_alt: /tags/
+#         collections: ['authors', 'posts']
+#         in_menu: true
+#         in_drawer: true
+#         in_footer: true
+#         children:
 # unassigned: []
