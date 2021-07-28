@@ -38,7 +38,7 @@ Stakeholder-driven development is important to us, and we want your feedback!  W
 </div>
 
 
-</div>
+<!-- </div>
 <div class="page-guides">
   <div class="usa-grid-full grid-row">
     <div class="graphic-list-item">
@@ -114,4 +114,4 @@ Stakeholder-driven development is important to us, and we want your feedback!  W
       </a>
     </div>
   </div>
-</div>
+</div> -->
