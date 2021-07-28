@@ -2,7 +2,7 @@
 title: Our Story
 permalink: /guides/
 layout: primary
-lead: TechRadar combines the content, collaborators, and consensus-creating collective to accelerate Federal emerging technology assessment, alignment, and action.
+lead: The content, collaborators, and consensus to accelerate Federal emerging technology innovation.
 banner_cta: true
 ---
 
