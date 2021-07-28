@@ -19,19 +19,19 @@ subnav_items:
     permalink: /code-of-conduct/#version
 ---
 
-# The Technology Transformation Services (TTS) Code of Conduct
+# The TechRadar Code of Conduct
 
 
 ## Introduction
 
-TTS is committed to building a safe, welcoming, harassment-free culture for everyone. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve.
+TechRadar is committed to building a safe, welcoming, harassment-free culture for everyone. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve.
 
 This Code of Conduct summarizes federal anti-harassment law and General Services Administration policy. We intend the plain-language approach to promote a culture of inclusion and respect.
 
-We expect everyone on the TTS team to exhibit these behaviors and abide by applicable federal laws and GSA policies. In addition, we expect everyone within TTS spaces to exhibit these behaviors and refrain from behavior prohibited by anti-harassment laws and GSA policies on harassment. These spaces include:
+We expect everyone on TechRadar to exhibit these behaviors and abide by applicable federal laws and GSA policies. In addition, we expect everyone within TTS spaces to exhibit these behaviors and refrain from behavior prohibited by anti-harassment laws and GSA policies on harassment. These spaces include:
 
-- TTS&#39;s physical offices,
-- TTS events and meetings,
+- TechRadar&#39;s physical offices,
+- TechRadar events and meetings,
 - All of our online forums and virtual collaboration tools, including:
   - Office chat rooms, like Slack
   - Mailing lists and email
@@ -80,7 +80,7 @@ The [GSA Policy](https://www.gsa.gov/portal/directive/d0/content/512516) Stateme
 Federal employees can be subject to appropriate discipline, up to and including removal, for conduct unbecoming a federal employee, which is conduct which is unattractive; unsuitable; detracting from one&#39;s character or reputation; or creates an unfavorable impression.  Abusive and demeaning remarks to and about others in the workplace, and sexual remarks, which do not rise to the level of sexual harassment under the employment discrimination laws, nonetheless can be considered conduct unbecoming a federal employee.
 
 ### Other unacceptable behavior
-In addition, the following behaviors violate applicable laws and policies, or otherwise undermine the culture of respect and inclusion we seek to build within TTS:
+In addition, the following behaviors violate applicable laws and policies, or otherwise undermine the culture of respect and inclusion we seek to build within TechRadar:
 
 - Touching people without their affirmative consent.
 - Sustained disruption of meetings, talks, or discussions, including chat rooms.
@@ -92,12 +92,12 @@ In addition, the following behaviors violate applicable laws and policies, or ot
 
 The process for reporting violations of GSA&#39;s Policy Statement on sexual and non-sexual harassment can be found in [GSA Order ADM 2325.8 Section 3(d)](https://www.gsa.gov/portal/directive/d0/content/512516) and GSA Order HRM 9700.6. Depending on your complaint, you may have a 45-day window from the date of the incident to report it to the GSA. Please read the GSA Order carefully.
 
-The behaviors listed in this section undermine the culture of inclusion and respect that we are trying to build within TTS. We encourage you to report violations to your supervisor, any management official, a Human Resources official, and/or the Office of Civil Rights, so that TTS can take any necessary steps to ensure that we have a safe and welcoming team.
+The behaviors listed in this section undermine the culture of inclusion and respect that we are trying to build within TechRadar. We encourage you to report violations to your supervisor, any management official, a Human Resources official, and/or the Office of Civil Rights, so that TTS can take any necessary steps to ensure that we have a safe and welcoming team.
 
 ## Credits
 
-TTS is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
-
+TechRadar is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
+- [18F](https://18f.gsa.gov)
 - [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 - [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
 - [Geek Feminism Code of Conduct](https://geekfeminism.org/about/code-of-conduct/)
