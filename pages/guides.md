@@ -50,7 +50,7 @@ We invite you to comprehend deeply, connect widely, and collaborate greatly.  Te
 Stakeholder-driven development is important to us, and we want your feedback!  We are an agile team that is always releasing new features, fixing bugs, and making improvements to TechRadar.  What would you like us to work on next?  [Share here](https://docs.google.com/forms/d/e/1FAIpQLSeTPc5kOKB_J1PYCe1LCeiZBPjyf3B5QPdHuK9IMjDXckXLVw/viewform) or e-mail us at TechRadar@gsa.gov.
 
 </div>
-<!-- <div class="page-guides">
+<div class="page-guides">
   <div class="usa-grid-full grid-row">
     <div class="graphic-list-item">
       <a class="graphic-list-link" href="https://pages.18f.gov/accessibility/">
@@ -125,4 +125,4 @@ Stakeholder-driven development is important to us, and we want your feedback!  W
       </a>
     </div>
   </div>
-</div> -->
+</div>
