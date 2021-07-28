@@ -26,7 +26,7 @@ TechRadar is committed to building a safe, welcoming, harassment-free culture fo
 
 This Code of Conduct summarizes federal anti-harassment law and General Services Administration policy. We intend the plain-language approach to promote a culture of inclusion and respect.
 
-We expect everyone on TechRadar to exhibit these behaviors and abide by applicable federal laws and GSA policies. In addition, we expect everyone within TTS spaces to exhibit these behaviors and refrain from behavior prohibited by anti-harassment laws and GSA policies on harassment. These spaces include:
+We expect everyone on TechRadar to exhibit these behaviors and abide by applicable federal laws and GSA policies. In addition, we expect everyone within TechRadar spaces to exhibit these behaviors and refrain from behavior prohibited by anti-harassment laws and GSA policies on harassment. These spaces include:
 
 - TechRadar&#39;s physical offices,
 - TechRadar events and meetings,
