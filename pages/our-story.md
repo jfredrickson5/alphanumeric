@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Our Story
 permalink: /guides/
 layout: primary
@@ -8,10 +8,10 @@ banner_cta: true
 
 <div class="font-sans-lg" markdown=1>
   18F’s work with other agencies is built on user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open. **Below are the technical guides that bring those principles into our day-to-day work.**
-</div>
+</div> -->
 
 
-<!-- ---
+---
 title: Our Community
 permalink: /how-we-work/
 layout: hww-primary
@@ -50,7 +50,7 @@ We invite you to comprehend deeply, connect widely, and collaborate greatly.  Te
 
 Stakeholder-driven development is important to us, and we want your feedback!  We are an agile team that is always releasing new features, fixing bugs, and making improvements to TechRadar.  What would you like us to work on next?  [Share here](https://docs.google.com/forms/d/e/1FAIpQLSeTPc5kOKB_J1PYCe1LCeiZBPjyf3B5QPdHuK9IMjDXckXLVw/viewform) or e-mail us at TechRadar@gsa.gov.
 
-</div> -->
+</div>
 <!-- 18F helps agencies define a strategy and work towards a solution through our Path Analysis and Experiment and Iterate services. We also offer procurement services, including to state and local governments with access to federal funds.
 
 18F works with partners that have federal funding, and, as a cost recoverable office, we’re required to charge for our work.
