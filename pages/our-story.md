@@ -2,7 +2,7 @@
 title: Our Community
 permalink: /how-we-work/
 layout: hww-primary
-lead: TechRadar combines the content, collaborators, and consensus-creating collective to accelerate emerging technology assessment, alignment, and action.
+lead: The content, collaborators, and consensus to accelerate Federal emerging technology innovation.
 content_focus: false
 ---
 
@@ -38,8 +38,8 @@ Stakeholder-driven development is important to us, and we want your feedback!  W
 
 </div>
 
----
-
+<!-- ---
+ -->
 <!-- {% capture pa-1 %}
 ## Path Analysis:
 ### Asking the right questions, solving the right problems.
