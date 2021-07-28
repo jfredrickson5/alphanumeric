@@ -2,12 +2,13 @@
 title: Our Story
 permalink: /guides/
 layout: primary
-lead: Principles and standards that shape our work
+lead: TechRadar combines the content, collaborators, and consensus-creating collective to accelerate Federal emerging technology assessment, alignment, and action.
 banner_cta: true
 ---
 
 <div class="font-sans-lg" markdown=1>
-  ## What is TechRadar?
+
+## What is TechRadar?
 
 We are closely tracking and sharing key emerging technologies relevant to our nation's competitiveness, our agency's charge as a Governmentwide leader in technology, and our careful consideration for our work and environment.  We hope that TechRadar becomes a collaboration medium and platform that gives our audience the tools to maximize realized value from current IT assets and identify new solutions to emerging challenges.
 Users will be presented with key information about a key technology area, including:
