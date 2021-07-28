@@ -16,7 +16,8 @@ lead: Connect and collaborate throughout the Federal Government to harness the p
 Email our team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
 
 ### Are you a member of the press?
-Reach out to GSA's media team at [press@gsa.gov](mailto:press@gsa.gov).
+Reach out to GSA's media team at [press@gsa.go
+      v](mailto:press@gsa.gov).
 
 ### Anything else?
 For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
@@ -28,7 +29,7 @@ For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](
       <h4 class="sidebar-heading-border">Learn more about TechRadar</h4>
         <ul>
           <li><a href="{{ site.baseurl }}/what-we-deliver/">Who We Are</a></li>
-          <li><a href="{{ site.baseurl }}/partnership-principles/">Partnership principles</a></li>
+          <li><a href="{{ site.baseurl }}/partnership-principles/">Join Us on Slack</a></li>
           <li><a href="{{ site.baseurl }}/about/#funding-and-agreements">Our Office</a></li>
         </ul>
         <h4 class="sidebar-heading-border">Follow TechRadar</h4>
