@@ -1,16 +1,44 @@
 ---
-title: How we work
+title: Our Community
 permalink: /how-we-work/
 layout: hww-primary
-lead: Together, we create a unified team by pairing our technical expertise with your program knowledge.
+lead: Together, we're building a community where Federal innovators can connect, collaborate and create new possibilities.
 banner_cta: true
 content_focus: false
 ---
 
 <div class="hww-intro" markdown="1">
-### 18F partners with civilian and military federal agencies to help you build or buy exceptional digital services.
+### TechRadar combines the content, collaborators, and consensus-creating collective to accelerate emerging technology assessment, alignment, and action.
 
-18F helps agencies define a strategy and work towards a solution through our Path Analysis and Experiment and Iterate services. We also offer procurement services, including to state and local governments with access to federal funds.
+## What is TechRadar?
+
+We are closely tracking and sharing key emerging technologies relevant to our nation's competitiveness, our agency's charge as a Governmentwide leader in technology, and our careful consideration for our work and environment.  We hope that TechRadar becomes a collaboration medium and platform that gives our audience the tools to maximize realized value from current IT assets and identify new solutions to emerging challenges.
+Users will be presented with key information about a key technology area, including:
+- Vetted summaries of core technology capabilities
+- Current usage, points of contact, and approval status
+- Business areas in which the technology might have applicability
+- Links to recommended further reading resources 
+ 
+Within a given key technology area, some of the questions our platform seeks to answer are:
+- How do I unlock the assets we already possess to stay abreast and ahead of potential competitors and market disruption?
+- Is an off-the-shelf solution the right approach, or should we develop a custom, in-house solution? Or is the answer somewhere in-between?
+- Will this technology help me consolidate existing tools, reduce overhead, and/or realize other efficiencies?
+- How might this technology help spur further innovation across the agency or business line?
+
+TechRadar is not intended to be another unidirectional, information-sharing website, but serve as an interactive, collaborative platform that evolves and improves as users recommend key technology areas, share use cases, and engage with colleagues considering or already using these technologies.
+
+## Why TechRadar?
+
+The Office of the Chief Technology Officer (OCTO) is GSA’s champion for the adoption and implementation of emerging tools and technologies.  As technology evangelists, we strive to openly share information about cutting-edge solutions.  TechRadar provides GSA IT and its customers with the industry’s strategic pulse regarding emerging IT tools, technologies, and processes.  This information is presented to facilitate stakeholder decision-making in pursuit of business value and alignment with current and planned GSA IT practices. We created TechRadar for all of us at GSA to gain and share insights into technology focus areas - all in one convenient platform. 
+
+## How Can I Contribute?
+
+We invite you to comprehend deeply, connect widely, and collaborate greatly.  TechRadar is an all-in-one space for Federal innovators like you to assess emerging technologies critical to our nation's competitiveness and our work, align with past, present, or prospective efforts to reduce duplication and spur innovation, and act with insight and synergy.
+
+Stakeholder-driven development is important to us, and we want your feedback!  We are an agile team that is always releasing new features, fixing bugs, and making improvements to TechRadar.  What would you like us to work on next?  [Share here](https://docs.google.com/forms/d/e/1FAIpQLSeTPc5kOKB_J1PYCe1LCeiZBPjyf3B5QPdHuK9IMjDXckXLVw/viewform) or e-mail us at TechRadar@gsa.gov.
+
+</div>
+<!-- 18F helps agencies define a strategy and work towards a solution through our Path Analysis and Experiment and Iterate services. We also offer procurement services, including to state and local governments with access to federal funds.
 
 18F works with partners that have federal funding, and, as a cost recoverable office, we’re required to charge for our work.
 
@@ -212,3 +240,4 @@ In each of our projects, our teams will work to build your agency’s capacity f
 
 <div>Prices are current as of June 30, 2020
 </div>
+ -->
