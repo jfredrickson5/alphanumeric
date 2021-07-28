@@ -3,7 +3,7 @@ agency: Robotics & Automation
 title: The Robot Revolution
 subtitle: How Automation is Changing the Workplace
 permalink: /what-we-deliver/state-uskpa/
-redirect_from: /project/state-uskpa/
+<!-- redirect_from: /project/state-uskpa/ -->
 excerpt: Automation is reshaping the workplace in unexpected ways. Robots and automation can improve efficiency and quality, reduce costs, and even help create more jobs for their human counterparts. But more robots can also reduce the need in other categories of personnel.
 image: /assets/emergingtech/robotics.gif
 image_accessibility: Robotics
