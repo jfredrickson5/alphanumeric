@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Our Story
 permalink: /guides/
 layout: primary
@@ -8,7 +8,7 @@ banner_cta: true
 
 <div class="font-sans-lg" markdown=1>
   18F’s work with other agencies is built on user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open. **Below are the technical guides that bring those principles into our day-to-day work.**
-</div> -->
+</div>
 
 
 ---
