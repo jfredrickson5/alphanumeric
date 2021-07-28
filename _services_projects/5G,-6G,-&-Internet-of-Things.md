@@ -12,12 +12,12 @@ project_weight: 3
 tag: alaska
 expiration_date:
 github_repo:
-  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/IF/IF11239)"
-  - "[Government Accountability Office](https://www.gao.gov/products/gao-20-577)"
 project_url:
 learn_more:
 product_clients:
 resources:
+  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/IF/IF11239)"
+  - "[Government Accountability Office](https://www.gao.gov/products/gao-20-577)"
 ---
 
 ### IoT Characteristics
