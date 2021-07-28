@@ -1,21 +1,8 @@
 ---
-title: Our Story
-permalink: /guides/
-layout: primary
-lead: Principles and standards that shape our work
-banner_cta: true
----
-
-<div class="font-sans-lg" markdown=1>
-  18F’s work with other agencies is built on user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open. **Below are the technical guides that bring those principles into our day-to-day work.**
-</div>
-
-
----
 title: Our Community
 permalink: /how-we-work/
 layout: hww-primary
-lead: Together, we're building a community where Federal innovators can connect, collaborate and create new possibilities.
+lead: Together, we create a unified team by pairing our technical expertise with your program knowledge.
 banner_cta: true
 content_focus: false
 ---
@@ -50,10 +37,6 @@ We invite you to comprehend deeply, connect widely, and collaborate greatly.  Te
 
 Stakeholder-driven development is important to us, and we want your feedback!  We are an agile team that is always releasing new features, fixing bugs, and making improvements to TechRadar.  What would you like us to work on next?  [Share here](https://docs.google.com/forms/d/e/1FAIpQLSeTPc5kOKB_J1PYCe1LCeiZBPjyf3B5QPdHuK9IMjDXckXLVw/viewform) or e-mail us at TechRadar@gsa.gov.
 
-</div>
-<!-- 18F helps agencies define a strategy and work towards a solution through our Path Analysis and Experiment and Iterate services. We also offer procurement services, including to state and local governments with access to federal funds.
-
-18F works with partners that have federal funding, and, as a cost recoverable office, we’re required to charge for our work.
 
 </div>
 
@@ -85,12 +68,6 @@ Each Path Analysis is customized to the needs of an agency, with the goal of mov
             <img src="{{ site.baseurl }}/assets/img/calendar.svg" alt="">
           </div>
           <span>8-10 weeks</span>
-        </li>
-        <li>
-          <div class="graphic-list-img">
-            <img src="{{ site.baseurl }}/assets/img/price-tag.svg" alt="">
-          </div>
-          <span>Typically $250,000</span>
         </li>
         <li>
           <div class="graphic-list-img">
@@ -132,12 +109,6 @@ Once your team has completed a Path Analysis, we can experiment and iterate on a
         </li>
         <li>
           <div class="graphic-list-img">
-            <img src="{{ site.baseurl }}/assets/img/price-tag.svg" alt="">
-          </div>
-          <span>Typically $630,000 - $750,000</span>
-        </li>
-        <li>
-          <div class="graphic-list-img">
             <img src="{{ site.baseurl }}/assets/img/rotate-clockwise.svg" alt="">
           </div>
           <span>Flexible number of phases based on project needs</span>
@@ -171,12 +142,6 @@ We’ll start with a Path Analysis and move directly to an Experiment & Iterate 
           <img src="{{ site.baseurl }}/assets/img/calendar.svg" alt="">
         </div>
         <span>20 weeks</span>
-      </li>
-      <li>
-        <div class="graphic-list-img">
-          <img src="{{ site.baseurl }}/assets/img/price-tag.svg" alt="">
-        </div>
-        <span>Starting at $855,000</span>
       </li>
     </ul>
   </div>
@@ -212,12 +177,6 @@ Your contracting officer will conduct the procurement with guidance and coaching
   </div>
   <div class="tablet:grid-col-4">
     <ul class="graphic-list">
-      <li>
-        <div class="graphic-list-img">
-          <img src="{{ site.baseurl }}/assets/img/price-tag.svg" alt="">
-        </div>
-        <span>Starting at $869,000</span>
-      </li>
     </ul>
   </div>
 </div>
@@ -241,16 +200,7 @@ In each of our projects, our teams will work to build your agency’s capacity f
   </div>
   <div class="tablet:grid-col-4">
     <ul class="graphic-list">
-      <li>
-        <div class="graphic-list-img">
-          <img src="{{ site.baseurl }}/assets/img/price-tag.svg" alt="">
-        </div>
-        <span>Starting at $990,000</span>
-      </li>
     </ul>
   </div>
 </div>
 
-<div>Prices are current as of June 30, 2020
-</div>
- -->
