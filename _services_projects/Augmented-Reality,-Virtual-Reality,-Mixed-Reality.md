@@ -21,6 +21,7 @@ resources:
 ---
 
 <div class="small-caps">Background</div>
+
 What Does It Take To Explore VR, AR, And MR?
 - Research headsets; VR, AR and MR capabilities; and requirements of the hardware and software.
 - Determine if your current computer system can handle the load.
