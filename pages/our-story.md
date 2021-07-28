@@ -40,7 +40,7 @@ Stakeholder-driven development is important to us, and we want your feedback!  W
 
 ---
 
-{% capture pa-1 %}
+<!-- {% capture pa-1 %}
 ## Path Analysis:
 ### Asking the right questions, solving the right problems.
 {: .hww-subheading}
@@ -199,6 +199,6 @@ In each of our projects, our teams will work to build your agency’s capacity f
   <div class="tablet:grid-col-4">
     <ul class="graphic-list">
     </ul>
-  </div>
+  </div> 
 </div>
-
+ -->
