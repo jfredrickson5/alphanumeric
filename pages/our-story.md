@@ -2,13 +2,11 @@
 title: Our Community
 permalink: /how-we-work/
 layout: hww-primary
-lead: Together, we create a unified team by pairing our technical expertise with your program knowledge.
-banner_cta: true
+lead: TechRadar combines the content, collaborators, and consensus-creating collective to accelerate emerging technology assessment, alignment, and action.
 content_focus: false
 ---
 
 <div class="hww-intro" markdown="1">
-### TechRadar combines the content, collaborators, and consensus-creating collective to accelerate emerging technology assessment, alignment, and action.
 
 ## What is TechRadar?
 
