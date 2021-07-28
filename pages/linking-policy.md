@@ -1,5 +1,5 @@
 ---
-title: Linking policy
+title: Linking Policy
 permalink: /linking-policy/
 layout: primary
 lead:
