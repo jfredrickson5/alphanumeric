@@ -90,7 +90,7 @@ assigned:
         in_drawer: true
         in_footer: true
         children:
-            -
+            
 #                 text: 'So you want to join 18F?'
 #                 permalink: /join/so-you-want-to-join-18f/
 #                 collections: ['join']
