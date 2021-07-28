@@ -4,7 +4,7 @@ title: Equitably Leveraging the Power of Big Data
 subtitle: As a nation, we have yet to grasp the full benefits or unwanted effects of artificial intelligence. AI is widely used, but how do we know it's working appropriately?
 permalink: /what-we-deliver/doj-crt/
 redirect_from: /project/doj-crt/
-excerpt: EXCERPT
+excerpt: With AI and Machine Learning (ML) already changing the way in which society addresses economic and national security challenges and opportunities, these technologies must be developed and used in a trustworthy and responsible manner.
 image: /assets/emergingtech/ai.gif
 image_accessibility: AI
 image_icon:
@@ -21,6 +21,7 @@ resources:
   - "[The National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
   - "[The Global Partnership on Artificial Intelligence](https://gpai.ai/)"
   - "[National Artificial Intelligence Initiative](https://ai.gov)"
+  - "[National Institute of Standards and Technology](https://nist.gov)"
 ---
 
 The field of artificial intelligence (AI)—a term first used in the 1950s—has gone through
