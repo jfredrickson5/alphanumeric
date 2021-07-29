@@ -12,12 +12,11 @@ lead: Connect and collaborate throughout the Federal Government to harness the p
     <div class="usa-section tablet:grid-col-8">
 {% markdown %}
 
-### Want to see how TechRadar can help your agency or office?
-Email our team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
+### Want to share your emerging tech story with TechRadar? 
+E-mail our team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
 
 ### Are you a member of the press?
-Reach out to GSA's media team at [press@gsa.go
-      v](mailto:press@gsa.gov).
+Reach out to GSA's media team at [press@gsa.gov](mailto:press@gsa.gov).
 
 ### Anything else?
 For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
