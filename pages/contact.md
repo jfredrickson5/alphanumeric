@@ -53,10 +53,10 @@ For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](
 </div>
 
 <div class="usa-section grid-container">
-  <h2>Sign up for TechRadar</h2>
+  <h2>Sign up to be a TechRadar Liaison</h2>
   <div class="grid-row grid-gap">
     <div class="padding-y-2 tablet:grid-col-6">
-      <p>Join the TechRadar emerging technology community.</p>
+      <p>TechRadar Liaisons serve as the main point of contact between the TechRadar team and your Federal office.  We're looking for passionate, innovative Feds driven to help accelerate emerging tech innovation.</p>
     </div>
   <div class="padding-y-2 tablet:grid-col-6">
     <form
@@ -73,7 +73,7 @@ For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](
           value="BVsScV3cJRnFoVEu3356C3aW2YOaOpp/VH1/TrYPxME4KWzNT/7ABzgRFh1wpp3UA6+C6PZX4tirvSU4VE5KcQ=="
         >
           <div class="form-group">
-            <label for="email">Your email address</label>
+            <label for="email">Your E-mail Address</label>
             <div class="grid-row">
               <div class="grid-col-fill">
                 <input class="usa-input margin-0" type="text" name="email" id="email">
