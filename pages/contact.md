@@ -5,7 +5,7 @@ layout: primary
 content_wide: true
 redirect_from: /hire/
 gridless: true
-lead: Connect and collaborate throughout the Federal Government to harness the power of emerging tech.
+lead: Connect and collaborate to harness the power of emerging tech.
 ---
 <div class="grid-container">
   <div class="grid-row grid-gap">
