@@ -75,19 +75,8 @@ header_border: true
 
         {% if page.project_url %}
         <li class="section-info-list-item">
-          <div class="section-info-header">Potential Applications</div>
+          <div class="section-info-header">Issues & Potential Applications</div>
           <div>{{ page.project_url | markdownify }}</div>
-        </li>
-        {% endif %}
-
-        {% if page.github_repo %}
-        <li class="section-info-list-item">
-          <div class="section-info-header">Projects</div>
-            <ul class="{% unless page.github_repo.size > 1 %}usa-unstyled-list{% endunless %}">
-            {% for repo in page.github_repo %}
-              <li>{{ repo | markdownify }}</a></li>
-            {% endfor %}
-            </ul>
         </li>
         {% endif %}
 
@@ -127,6 +116,17 @@ header_border: true
           </ul>
         {% endif %}
 
+        {% if page.github_repo %}
+        <li class="section-info-list-item">
+          <div class="section-info-header">Sectors & Stakeholders</div>
+            <ul class="{% unless page.github_repo.size > 1 %}usa-unstyled-list{% endunless %}">
+            {% for repo in page.github_repo %}
+              <li>{{ repo | markdownify }}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+        {% endif %}
+    
         {% if page.learn_more %}
           <li class="section-info-list-item">
             <a class="usa-button" href="{{ page.learn_more }}">Learn more</a>
