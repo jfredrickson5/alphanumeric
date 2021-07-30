@@ -2,7 +2,7 @@
 agency: Augmented Reality, Virtual Reality, Mixed Reality
 title: Demystifying the Virtual Reality Landscape
 subtitle: The differences between Virtual Reality, Augmented Reality, and Mixed Reality, and how you can get ready to experience a new reality for yourself.
-permalink: /what-we-deliver/forest-service/
+permalink: /what-we-deliver/tax-court/
 excerpt: The border between the virtual and real world continues to break down, providing breathtaking experiences that, a short time ago, could only be found in the imagination of sci-fi writers.
 image: /assets/emergingtech/arvr.gif
 image_accessibility: arvr
