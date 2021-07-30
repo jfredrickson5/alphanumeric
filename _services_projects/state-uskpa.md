@@ -1,10 +1,10 @@
 ---
 agency: Robotics & Automation
-title: The Robot Revolution
-subtitle: How Automation is Changing the Workplace
+title: Drones, Droids, and Driving the Future
+subtitle: How Automation is Delivering Change
 permalink: /what-we-deliver/state-uskpa/
 <!-- redirect_from: /project/state-uskpa/ -->
-excerpt: Automation is reshaping the workplace in unexpected ways. Robots and automation can improve efficiency and quality, reduce costs, and even help create more jobs for their human counterparts. But more robots can also reduce the need in other categories of personnel.
+excerpt: Robotics and automation is reshaping industries in unexpected ways. Robots and automation can improve efficiency and quality, reduce costs, and even help create more jobs for their human counterparts. But more robots can also create issues and risks worth considering.
 image: /assets/emergingtech/robotics.gif
 image_accessibility: Robotics
 project_weight: 10
