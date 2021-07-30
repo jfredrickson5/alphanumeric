@@ -6,8 +6,8 @@ navbar:
 - text: Our Story
   permalink: /guides/
   
-- text: Our Community
-  permalink: /how-we-work/
+# - text: Our Community
+#   permalink: /how-we-work/
   
 # - text: Blog
 #   permalink: /blog/
@@ -15,7 +15,7 @@ navbar:
 #     - /blog/:path/
 #     - /tags/:path/
 #     - /author/:path/
-- text: Contact
+- text: Our Community
   permalink: /contact/
 
 drawer:
@@ -25,15 +25,15 @@ drawer:
     - /what-we-deliver/:path/
 - text: Our Story
   permalink: /guides/
-- text: Our Community
-  permalink: /how-we-work/
+# - text: Our Community
+#   permalink: /how-we-work/
 # - text: Blog
 #   permalink: /blog/
 #   multiple_permalinks:
 #     - /blog/:path/
 #     - /tags/:path/
 #     - /author/:path/
-- text: Contact
+- text: Our Community
   permalink: /contact/
 
 footer:
@@ -43,13 +43,13 @@ footer:
     - /what-we-deliver/:path/
 - text: Our Story
   permalink: /guides/
-- text: Our Community
-  permalink: /how-we-work/
+# - text: Our Community
+#   permalink: /how-we-work/
 # - text: Blog
 #   permalink: /blog/
 #   multiple_permalinks:
 #     - /blog/:path/
 #     - /tags/:path/
 #     - /author/:path/
-- text: Contact
+- text: Our Community
   permalink: /contact/
