@@ -15,7 +15,7 @@ github_repo:
 project_url:
 learn_more:
 product_clients:
-resources:  
+Resources & Artifacts:  
     - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
     - "[Cost & Materials](https://gsa.gov/3dprint)"
     - "[Governance](https://gsa.gov/3dprint)"
