@@ -18,7 +18,11 @@ resources:
     - "[Cost & Materials](https://gsa.gov/3dprint)"
     - "[Governance](https://gsa.gov/3dprint)"
     - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
-
+github_repo: 
+    - "[American Society of the International Association for Testing and Materials (ASTM) International Committee F42 on Additive Manufacturing Technologies](https://www.astm.org/COMMITTEE/F42.htm)"
+    - "[Federation of American Scientists](https://www.fas.org/)"
+    - "[Aerospace Industries Association Additive Manufacturing Working Group](https://www.asme.org/topics-resources/content/5-questions-on-the-future-of-additive-manufacturing-in-aerospace)"
+    - "[The American Society Of Mechanical Engineers](https://www.asme.org/topics-resources/content/building-tough-3d-nanomaterials)"
 ---
 
 There are plenty of companies already adopting additive manufacturing (3D Printing) in their production processes with a wide range of use cases. 
