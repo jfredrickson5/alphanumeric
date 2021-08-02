@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Our Community
 permalink: /contact/
 layout: primary
 content_wide: true
