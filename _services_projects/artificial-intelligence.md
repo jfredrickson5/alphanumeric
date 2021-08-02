@@ -54,7 +54,11 @@ github_repo:
   - "[OpenAI](https://openai.com/)"
   - "[Open Data Institute](https://theodi.org/)"
   - "[Partnership on AI](https://www.partnershiponai.org/)"
-  - 
+  - "[Stanford University Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)"
+  - "[Tech Policy Lab (Univeristy of Washington)](http://techpolicylab.uw.edu/research_area/artificial-intelligence/)"
+  - "[United Nations Interregional Crime and Justice Research Institute](http://www.unicri.it/security-through-research-technology-and-innovation)"
+  - "[Next Generation Artificial Intelligence Research Center (University of Tokyo)](https://www.ai.u-tokyo.ac.jp/en/)"
+  - "[World Economic Forum](https://www.weforum.org/platforms/shaping-the-future-of-technology-governance-artificial-intelligence-and-machine-learning)"
 ---
 
 The field of artificial intelligence (AI)—a term first used in the 1950s—has gone through
