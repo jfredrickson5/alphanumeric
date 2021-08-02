@@ -11,7 +11,6 @@ image_icon:
 project_weight: 12
 tag: civil rights
 expiration_date:
-github_repo:
 project_url: 
 learn_more:
 product_clients:
@@ -22,6 +21,28 @@ resources:
   - "[The Global Partnership on Artificial Intelligence](https://gpai.ai/)"
   - "[National Artificial Intelligence Initiative](https://ai.gov)"
   - "[National Institute of Standards and Technology](https://nist.gov)"
+github_repo:
+  - "[Association for Computing Machinery (ACM)](https://www.acm.org/education/ai-ml-techtalks)"
+  - "[AI Now Institute (NYU)](https://ainowinstitute.org/)"
+  - "[AI Sustainability Center](https://aisustainability.org/)"
+  - "[ALJ-Algorithmic Justice League](https://www.ajlunited.org/)"
+  - "[Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/)"
+  - "[Association for the Advancement of AI](https://www.aaai.org/)"
+  - "[Partnership on AI](https://www.partnershiponai.org/)"
+  - "[The Alan Turing Institute](https://www.turing.ac.uk/)"
+  - "[Berkeley Center for Law & Technology](https://www.law.berkeley.edu/research/bclt/)"
+  - "[Center for AI and Digital Policy](https://www.caidp.org/)"
+  - "[Centre for the Study of Existental Risk (CSER)](https://www.cser.ac.uk/)"
+  - "[Defense Advanced Research Projects Agency](https://www.darpa.mil/work-with-us/ai-next-campaign)"
+  - "[Data & Society](https://datasociety.net/)"
+  - "[Electronic Frontier Foundation](https://www.eff.org/)"
+  - "[FTC Office of Technology Research and Investigation (OTech)](https://www.ftc.gov/about-ftc/bureaus-offices/bureau-consumer-protection/office-technology-research-investigation)"
+  - "[Future of Humanity Institute (University of Oxford)](https://www.fhi.ox.ac.uk/)"
+  - "[Future of Life Institute](https://futureoflife.org/)"
+  - "[Future of Privacy Forum](https://fpf.org/)"
+  - "[Governance Lab](https://thegovlab.org/)"
+  - "[Institute of Electrical and Electronics Engineers (IEEE)](https://ethicsinaction.ieee.org/#set-the-standard)"
+  - 
 ---
 
 The field of artificial intelligence (AI)—a term first used in the 1950s—has gone through
