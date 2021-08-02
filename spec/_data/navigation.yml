@@ -24,7 +24,7 @@ assigned:
         in_footer: false
         children:
     -
-        text: Contact
+        text: Our Community
         href: pages/contact.md
         permalink: /contact/
         collections: ['contact']
