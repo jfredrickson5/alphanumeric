@@ -16,7 +16,6 @@ product_clients:
 resources:  
     - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
     - "[Cost & Materials](https://gsa.gov/3dprint)"
-    - "[Governance](https://gsa.gov/3dprint)"
     - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
 github_repo: 
     - "[American Society of the International Association for Testing and Materials (ASTM) International Committee F42 on Additive Manufacturing Technologies](https://www.astm.org/COMMITTEE/F42.htm)"
