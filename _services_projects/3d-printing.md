@@ -13,7 +13,7 @@ expiration_date:
 project_url:
 learn_more:
 product_clients:
-Resources & Artifacts:  
+resources:  
     - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
     - "[Cost & Materials](https://gsa.gov/3dprint)"
     - "[Governance](https://gsa.gov/3dprint)"
