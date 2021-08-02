@@ -61,7 +61,7 @@ For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](
   <div class="padding-y-2 tablet:grid-col-6">
     <form
       id="GD-snippet-form"
-      action="https://docs.google.com/forms/d/1urVXyQCkgiwClUu-cmBcVwHoeybUtPIRHS9aeRAg_rs/edit" accept-charset="UTF-8"
+      action="https://docs.google.com/forms/d/e/1FAIpQLScO6iE1CKQjqkVqUOWYe3nOhnLClRMDCVoeAEtfB--MHj-Aqw/viewform?usp=sf_link" accept-charset="UTF-8"
       method="post"
       target="_blank"
     >
