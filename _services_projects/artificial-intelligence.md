@@ -28,7 +28,6 @@ github_repo:
   - "[ALJ-Algorithmic Justice League](https://www.ajlunited.org/)"
   - "[Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/)"
   - "[Association for the Advancement of AI](https://www.aaai.org/)"
-  - "[Partnership on AI](https://www.partnershiponai.org/)"
   - "[The Alan Turing Institute](https://www.turing.ac.uk/)"
   - "[Berkeley Center for Law & Technology](https://www.law.berkeley.edu/research/bclt/)"
   - "[Center for AI and Digital Policy](https://www.caidp.org/)"
@@ -42,6 +41,19 @@ github_repo:
   - "[Future of Privacy Forum](https://fpf.org/)"
   - "[Governance Lab](https://thegovlab.org/)"
   - "[Institute of Electrical and Electronics Engineers (IEEE)](https://ethicsinaction.ieee.org/#set-the-standard)"
+  - "[KPMG](https://advisory.kpmg.us/services/artificial-intelligence.html)"
+  - "[Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/)"
+  - "[McKinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence)"
+  - "[MIT Computer Science & Artificial Intelligence Lab (MIT CSAIL)](https://www.csail.mit.edu/)"
+  - "[MIT Media Lab](https://www.media.mit.edu/research/?filter=everything&tag=artificial-intelligence)"
+  - "[Nesta - Mapping AI Governance](https://www.nesta.org.uk/data-visualisation-and-interactive/mapping-ai-governance/)"
+  - "[National Institute of Standards and Technology, U.S. Department of Commerce (NIST)](https://www.nist.gov/artificial-intelligence)"
+  - "[National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
+  - "[Open Community for Ethics in Autonomous and Intelligent Systems (OCEANIS)](https://ethicsstandards.org/)"
+  - "[OECD AI Policy Observatory](https://oecd.ai/)"
+  - "[OpenAI](https://openai.com/)"
+  - "[Open Data Institute](https://theodi.org/)"
+  - "[Partnership on AI](https://www.partnershiponai.org/)"
   - 
 ---
 
