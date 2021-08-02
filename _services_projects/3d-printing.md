@@ -10,8 +10,6 @@ image_icon:
 project_weight: 8
 tag: forest service
 expiration_date:
-github_repo:
-  - "[GSA 3D Printing/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
 project_url:
 learn_more:
 product_clients:
