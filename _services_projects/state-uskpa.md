@@ -10,7 +10,7 @@ image_accessibility: Robotics
 project_weight: 10
 tag: uskpa
 expiration_date:
-learn-more:
+learn_more:
     - "[Robotic Process Automation (RPA)](https://digital.gov/communities/rpa/)"
 resources:
     - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
