@@ -14,9 +14,9 @@ lead: Connect and collaborate to harness the power of emerging tech.
 
 ### Want to share your emerging tech story with TechRadar? 
 E-mail our team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
-
+<!-- 
 ### Are you a member of the press?
-Reach out to GSA's media team at [press@gsa.gov](mailto:press@gsa.gov).
+Reach out to GSA's media team at [press@gsa.gov](mailto:press@gsa.gov). -->
 
 ### Anything else?
 For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](mailto:TechRadar@gsa.gov).
