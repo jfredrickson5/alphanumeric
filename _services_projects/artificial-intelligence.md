@@ -13,6 +13,7 @@ tag: civil rights
 expiration_date:
 project_url: 
 learn_more:
+  - "[Artificial Intelligence (AI) Community of Practice](https://digital.gov/communities/artificial-intelligence/)" 
 product_clients:
 resources:
   - "[Congressional Research Service: "AI: Background, Selected Issues, and Policy Considerations"](https://crsreports.congress.gov/product/pdf/R/R46795)"
