@@ -14,7 +14,7 @@ project_url:
 learn_more:
 product_clients:
 resources:  
-    - "[GSA 3D Pringting/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
+    - "[GSA 3D Printing/Additive Manufacturing Solutions](https://gsa.gov/3dprint)"
     - "[Cost & Materials](https://gsa.gov/3dprint)"
     - "[Vendors](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=333249&executeQuery=YES)"
 github_repo: 
