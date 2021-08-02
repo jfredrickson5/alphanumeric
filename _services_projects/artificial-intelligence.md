@@ -15,12 +15,9 @@ project_url:
 learn_more:
 product_clients:
 resources:
-  - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
-  - "[Government Accountability Office](https://www.gao.gov/products/gao-21-519sp)"
-  - "[The National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
-  - "[The Global Partnership on Artificial Intelligence](https://gpai.ai/)"
-  - "[National Artificial Intelligence Initiative](https://ai.gov)"
-  - "[National Institute of Standards and Technology](https://nist.gov)"
+  - "[Congressional Research Service: "AI: Background, Selected Issues, and Policy Considerations"](https://crsreports.congress.gov/product/pdf/R/R46795)"
+  - "[Government Accountability Office: "AI: An Accountability Framework for Federal Agencies and Other Entities"](https://www.gao.gov/products/gao-21-519sp)"
+  - "[The National Security Commission on Artificial Intelligence Final Report](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf)"
 github_repo:
   - "[Association for Computing Machinery (ACM)](https://www.acm.org/education/ai-ml-techtalks)"
   - "[AI Now Institute (NYU)](https://ainowinstitute.org/)"
@@ -46,6 +43,7 @@ github_repo:
   - "[McKinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence)"
   - "[MIT Computer Science & Artificial Intelligence Lab (MIT CSAIL)](https://www.csail.mit.edu/)"
   - "[MIT Media Lab](https://www.media.mit.edu/research/?filter=everything&tag=artificial-intelligence)"
+  - "[National Artificial Intelligence Initiative](https://ai.gov)"
   - "[Nesta - Mapping AI Governance](https://www.nesta.org.uk/data-visualisation-and-interactive/mapping-ai-governance/)"
   - "[National Institute of Standards and Technology, U.S. Department of Commerce (NIST)](https://www.nist.gov/artificial-intelligence)"
   - "[National Security Commission on Artificial Intelligence](https://www.nscai.gov/)"
