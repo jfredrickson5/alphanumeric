@@ -612,7 +612,7 @@ role-based font token.
       $output-display-name: false;
     }
     @if not $output-display-name {
-      @return #{$this-stack};
+      @return "#{$this-stack}";
     }
     @return unquote("#{$this-name}, #{$this-stack}");
   }
