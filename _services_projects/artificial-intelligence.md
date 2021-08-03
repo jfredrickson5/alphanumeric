@@ -15,11 +15,10 @@ project_url:
 learn_more:
   - "[Artificial Intelligence (AI) Community of Practice](https://digital.gov/communities/artificial-intelligence/)" 
 product_clients:
-resources:
+github_repo:
   - "[Congressional Research Service: "AI: Background, Selected Issues, and Policy Considerations"](https://crsreports.congress.gov/product/pdf/R/R46795)"
   - "[Government Accountability Office: "AI: An Accountability Framework for Federal Agencies and Other Entities"](https://www.gao.gov/products/gao-21-519sp)"
   - "[The National Security Commission on Artificial Intelligence Final Report](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf)"
-github_repo:
   - "[Association for Computing Machinery (ACM)](https://www.acm.org/education/ai-ml-techtalks)"
   - "[AI Now Institute (NYU)](https://ainowinstitute.org/)"
   - "[AI Sustainability Center](https://aisustainability.org/)"
