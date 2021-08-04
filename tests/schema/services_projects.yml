@@ -17,9 +17,9 @@ config:
     - image_accessibility
     - expiration_date
     - start_date
+    - learn_more
     - github_repo
     - project_url
-    - learn_more
     - resources
     - quote
     - quote_source
