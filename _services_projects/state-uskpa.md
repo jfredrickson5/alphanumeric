@@ -11,7 +11,7 @@ project_weight: 10
 tag: uskpa
 expiration_date:
 learn_more:
-    - "[Robotic Process Automation (RPA)](https://digital.gov/communities/rpa/)"
+    - "https://digital.gov/communities/rpa/"
 resources:
     - "[Congressional Research Service](https://crsreports.congress.gov/product/pdf/R/R46795)"
     - "[U.S. Government Accountability Office](https://www.gao.gov/products/gao-19-161)"
