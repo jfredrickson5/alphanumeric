@@ -106,6 +106,16 @@ header_border: true
         </li>
         {% endif %}
 
+        {% if page.learn_more %}
+          <li class="section-info-list-item">
+            <a class="usa-button" href="{{ page.learn_more }}">Community of Practice</a>
+          </li>
+        {% endif %}
+      </ul>
+      <div>{% include side-cta.html %}</div>
+    </aside>
+    {% endif %}
+    
         {% if page.resources.size > 0 %}
         <li class="section-info-list-item">
           <div class="section-info-header">Resources & Artifacts</div>
@@ -127,15 +137,6 @@ header_border: true
         </li>
         {% endif %}
     
-        {% if page.learn_more %}
-          <li class="section-info-list-item">
-            <a class="usa-button" href="{{ page.learn_more }}">Community of Practice</a>
-          </li>
-        {% endif %}
-      </ul>
-      <div>{% include side-cta.html %}</div>
-    </aside>
-    {% endif %}
   </div>
   </div>
 <!--   {% if matching_posts.size > 0 %}
