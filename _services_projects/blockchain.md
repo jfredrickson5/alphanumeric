@@ -12,9 +12,12 @@ tag: data act
 expiration_date:
 learn_more:
    - "[Blockchain Community of Practice](https://digital.gov/communities/blockchain/)"
+product_clients:
 resources:
    - "[U.S. Government Accountability Office](https://www.gao.gov/products/gao-19-704sp)"
    - "[Congressional Research Service](https://fas.org/sgp/crs/misc/R45116.pdf)"
+github_repo:
+   - "[U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov)"
 ---
 
 <div class="small-caps">Background</div>
