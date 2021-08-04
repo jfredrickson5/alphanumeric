@@ -13,7 +13,7 @@ expiration_date:
 github_repo:
 project_url:
 learn_more:
-  - "[Virtual and Augmented Reality Community of Practice](https://digital.gov/communities/virtual-augmented-reality/)"
+  - "https://digital.gov/communities/virtual-augmented-reality/"
 product_clients:
 resources:  
   - "[Congressional Research Service](https://crsreports.congress.gov/)"
