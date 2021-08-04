@@ -99,7 +99,20 @@ header_border: true
         {% if page.resources.size > 0 %}
         <li class="section-info-list-item">
           <div class="section-info-header">Resources & Artifacts</div>
-	@@ -127,15 +137,6 @@ <h5>{{ page.quote_source | prepend: '– ' | markdownify }}</h5>
+          <ul class="{% unless page.resources.size > 1 %}usa-unstyled-list{% endunless %}">
+            {% for resource in page.resources %}
+              <li>{{ resource | markdownify }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+        {% if page.github_repo %}
+        <li class="section-info-list-item">
+          <div class="section-info-header">Sectors & Stakeholders</div>
+            <ul class="{% unless page.github_repo.size > 1 %}usa-unstyled-list{% endunless %}">
+            {% for repo in page.github_repo %}
+              <li>{{ repo | markdownify }}</a></li>
+            {% endfor %}
+            </ul>
         </li>
         {% endif %}
 
