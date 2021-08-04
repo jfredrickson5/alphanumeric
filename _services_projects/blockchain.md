@@ -11,7 +11,7 @@ project_weight: 11
 tag: data act
 expiration_date:
 learn_more:
-   - "[Blockchain Community of Practice](https://digital.gov/communities/blockchain/)"
+   - "https://digital.gov/communities/blockchain/"
 product_clients:
 resources:
    - "[U.S. Government Accountability Office](https://www.gao.gov/products/gao-19-704sp)"
