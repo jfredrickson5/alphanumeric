@@ -9,7 +9,7 @@ image: /assets/emergingtech/ai.gif
 image_accessibility: AI
 image_icon:
 project_weight: 12
-tag: civil rights
+tag: ai
 expiration_date:
 project_url: 
 learn_more:
