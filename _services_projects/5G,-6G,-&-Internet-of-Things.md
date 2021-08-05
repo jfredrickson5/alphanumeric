@@ -38,6 +38,20 @@ from anywhere using a mobile device or computer.
 
 <div class="small-caps">Governance</div>
 
+### COVID-19
+IoT has the capability of transitioning many customer interactions that have been historically face-to-face, to more touchless interactions.  
+
+Need a temporary laptop or new pair of headphones for video conferencing?  Need to access a shared tool at the job site?  IoT smart lockers would allow teams such as IT support and facilities management to permit access to select resources via automated request fulfillment applications.
+
+Additionally, as GSA looks to incorporate more flex space into existing facilities, there is always the challenge of placing a user’s day use locker within general proximity to the desk location they have reserved for the day.  Smart lockers would allow for automated assignment of lockers based on desk reservations immediately or based on a booking trend.  This would reduce the employees foot traffic in a facility and permit them to operate within as an environment as possible.  
+
+In a GSA scenario, an IoT solution integrated with BookIt! could orchestrate reservation availability based on the occupancy level of any given space.  For example, once the occupancy rate of a building’s wing exceeded 50%, the remainder of the desks would be blocked from reservation.  
+
+### Climate & Sustainability
+GSA IT has already piloted multiple IoT technologies geared toward space utilization.  Answer the question: Who is using what types of space, how, and when?  These insights may first be leveraged internally to make informed decisions regarding how best to configure valuable workspace.  Scaling this solution to all Federal facilities could be a baseline IT capability, with data shared across organizational boundaries.  
+
+IoT capabilities, integrated into existing building automation systems (BAS), enables facility managers to scale space availability in real-team to meet tenant demands.  Meanwhile, areas not being utilized could receive reduced HVAC support to conserve energy.  In a GSA scenario, integration between BAS and BookIt! would orchestrate in what manner desks are made available for reservation, to ensure the most efficient use of space.  
+
 ### Applicable Laws & Guidance
 
 [H.R.1668 - Internet of Things Cybersecurity Improvement Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/1668/text)
@@ -46,13 +60,11 @@ from anywhere using a mobile device or computer.
  
 **Considerations:** The strength of the cybersecurity of the Federal Government and the positive benefits of digital technology transformation depend on proactively addressing cybersecurity throughout the acquisition and operation of Internet of Things devices by the Federal Government.
 
-
 ### [How Far Does the New Federal IoT Law Reach?](https://www.jdsupra.com/legalnews/how-far-does-the-new-federal-iot-law-5837222/)
  
 **Summary:** Last December 2020, the [IoT Cybersecurity Improvement Act](https://www.congress.gov/bill/116th-congress/house-bill/1668/text) became law in the U.S.  
 
 **Considerations:** By December 5, 2022, all government agencies must no longer renew procurement contracts with companies where their IoT devices will not comply with [National Institute of Standards and Technology (NIST)](https://www.nist.gov) standards and guidelines (see below).  Unsurprisingly, this also applies to new contracts.
-
 
 ### NIST Cybersecurity for IoT Program
  
