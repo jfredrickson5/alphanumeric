@@ -2,7 +2,7 @@
 agency: 5G, 6G, & Internet of Things
 title: Getting Smart & Secure
 subtitle: Smart Buildings & Cities
-permalink: /what-we-deliver/tax-court/
+permalink: /what-we-deliver/alaska-dhss/
 redirect_from: /project/alaska-dhss/
 excerpt: The Internet of Things (IoT) is a collection of electronic devices that can share information among themselves without necessarily requiring human-to-machine interaction. 
 image: /assets/emergingtech/iot.gif
