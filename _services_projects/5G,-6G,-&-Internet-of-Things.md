@@ -37,22 +37,8 @@ from anywhere using a mobile device or computer.
 </div>
 
 <div class="small-caps">Governance</div>
-
-### COVID-19
-IoT has the capability of transitioning many customer interactions that have been historically face-to-face, to more touchless interactions.  
-
-Need a temporary laptop or new pair of headphones for video conferencing?  Need to access a shared tool at the job site?  IoT smart lockers would allow teams such as IT support and facilities management to permit access to select resources via automated request fulfillment applications.
-
-Additionally, as GSA looks to incorporate more flex space into existing facilities, there is always the challenge of placing a user’s day use locker within general proximity to the desk location they have reserved for the day.  Smart lockers would allow for automated assignment of lockers based on desk reservations immediately or based on a booking trend.  This would reduce the employees foot traffic in a facility and permit them to operate within as an environment as possible.  
-
-In a GSA scenario, an IoT solution integrated with BookIt! could orchestrate reservation availability based on the occupancy level of any given space.  For example, once the occupancy rate of a building’s wing exceeded 50%, the remainder of the desks would be blocked from reservation.  
-
-### Climate & Sustainability
-GSA IT has already piloted multiple IoT technologies geared toward space utilization.  Answer the question: Who is using what types of space, how, and when?  These insights may first be leveraged internally to make informed decisions regarding how best to configure valuable workspace.  Scaling this solution to all Federal facilities could be a baseline IT capability, with data shared across organizational boundaries.  
-
-IoT capabilities, integrated into existing building automation systems (BAS), enables facility managers to scale space availability in real-team to meet tenant demands.  Meanwhile, areas not being utilized could receive reduced HVAC support to conserve energy.  In a GSA scenario, integration between BAS and BookIt! would orchestrate in what manner desks are made available for reservation, to ensure the most efficient use of space.  
-
-### Applicable Laws & Guidance
+  
+### Applicable Laws, Guidance, and Policy Priorities
 
 [H.R.1668 - Internet of Things Cybersecurity Improvement Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/1668/text)
  
@@ -76,6 +62,20 @@ IoT capabilities, integrated into existing building automation systems (BAS), en
 As is the case with all NIST publications, the guidance itself is not regulatory.  However, NIST is responsible for developing information security standards and guidelines, including minimum requirements for federal systems.  Because companies that do business with government agencies will need to interact with technology the government finds acceptable, the guidance is likely to have far-reaching influence. 
 
 **Considerations:**  NIST has a big role under the IoT Cybersecurity Improvement Act.  The Act requires NIST to create guidelines and standards for managing federal IoT devices by early March 2021.  GSA must adhere to the guidelines/standards created for management of IoT.
+
+### COVID-19
+IoT has the capability of transitioning many customer interactions that have been historically face-to-face, to more touchless interactions.  
+
+Need a temporary laptop or new pair of headphones for video conferencing?  Need to access a shared tool at the job site?  IoT smart lockers would allow teams such as IT support and facilities management to permit access to select resources via automated request fulfillment applications.
+
+Additionally, as GSA looks to incorporate more flex space into existing facilities, there is always the challenge of placing a user’s day use locker within general proximity to the desk location they have reserved for the day.  Smart lockers would allow for automated assignment of lockers based on desk reservations immediately or based on a booking trend.  This would reduce the employees foot traffic in a facility and permit them to operate within as an environment as possible.  
+
+In a GSA scenario, an IoT solution integrated with BookIt! could orchestrate reservation availability based on the occupancy level of any given space.  For example, once the occupancy rate of a building’s wing exceeded 50%, the remainder of the desks would be blocked from reservation.  
+
+### Climate & Sustainability
+GSA IT has already piloted multiple IoT technologies geared toward space utilization.  Answer the question: Who is using what types of space, how, and when?  These insights may first be leveraged internally to make informed decisions regarding how best to configure valuable workspace.  Scaling this solution to all Federal facilities could be a baseline IT capability, with data shared across organizational boundaries.  
+
+IoT capabilities, integrated into existing building automation systems (BAS), enables facility managers to scale space availability in real-team to meet tenant demands.  Meanwhile, areas not being utilized could receive reduced HVAC support to conserve energy.  In a GSA scenario, integration between BAS and BookIt! would orchestrate in what manner desks are made available for reservation, to ensure the most efficient use of space.
 
 <div class="small-caps">Issues</div>
 
