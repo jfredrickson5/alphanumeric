@@ -53,10 +53,10 @@ For all other inquiries, you can reach our outreach team at [TechRadar@gsa.gov](
 </div>
 
 <div class="usa-section grid-container">
-  <h2>[Sign up to be a TechRadar Liaison](https://docs.google.com/forms/d/e/1FAIpQLSeC8O7fUvMALAklW407WyyrfVtdm7oyogeBSGvukMCe90OV_w/viewform)</h2>
+  <h2>Sign up to be a TechRadar Liaison</h2>
   <div class="grid-row grid-gap">
     <div class="padding-y-2 tablet:grid-col-6">
-      <p>TechRadar Liaisons serve as the main point of contact between the TechRadar team and your Federal office.  We're looking for passionate, innovative Feds driven to help accelerate emerging tech innovation.</p>
+      <p>TechRadar Liaisons serve as the main point of contact between the TechRadar team and your Federal office.  We're looking for passionate, innovative Feds driven to help accelerate emerging tech innovation.  [Join us.]((https://docs.google.com/forms/d/e/1FAIpQLSeC8O7fUvMALAklW407WyyrfVtdm7oyogeBSGvukMCe90OV_w/viewform)</p>
     </div>
   <div class="padding-y-2 tablet:grid-col-6">
     <form
