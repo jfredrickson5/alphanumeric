@@ -50,7 +50,7 @@ As is the case with all NIST publications, the guidance itself is not regulatory
 
 **Considerations:**  NIST has a big role under the IoT Cybersecurity Improvement Act.  The Act requires NIST to create guidelines and standards for managing federal IoT devices by early March 2021.  GSA must adhere to the guidelines/standards created for management of IoT.
 
-<div class="small-caps">AR v. VR v. MR and Essential Equipment</div>
+<div class="small-caps">Essential Equipment & Terms</div>
 
 What Does It Take To Explore VR, AR, And MR?
 - Research headsets; VR, AR and MR capabilities; and requirements of the hardware and software.
