@@ -21,47 +21,6 @@ resources:
 
 ---
 
-<div class="small-caps">Governance</div>
-
-### Applicable Laws & Guidance
-
-[H.R.1668 - Internet of Things Cybersecurity Improvement Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/1668/text)
- 
-**Summary:**  To establish minimum security standards for Internet of Things devices owned or controlled by the Federal Government, and for other purposes.
- 
-**Considerations:** The strength of the cybersecurity of the Federal Government and the positive benefits of digital technology transformation depend on proactively addressing cybersecurity throughout the acquisition and operation of Internet of Things devices by the Federal Government.
-
-
-### [How Far Does the New Federal IoT Law Reach?](https://www.jdsupra.com/legalnews/how-far-does-the-new-federal-iot-law-5837222/)
- 
-**Summary:** Last December 2020, the [IoT Cybersecurity Improvement Act](https://www.congress.gov/bill/116th-congress/house-bill/1668/text) became law in the U.S.  
-
-**Considerations:** By December 5, 2022, all government agencies must no longer renew procurement contracts with companies where their IoT devices will not comply with [National Institute of Standards and Technology (NIST)](https://www.nist.gov) standards and guidelines (see below).  Unsurprisingly, this also applies to new contracts.
-
-
-### NIST Cybersecurity for IoT Program
- 
-**Summary:** Four public draft documents provide guidance for federal agencies and IoT device manufacturers on defining IoT cybersecurity requirements.  [The NIST released draft publications](https://www.nist.gov/programs-projects/nist-cybersecurity-iot-program) shortly after the law passed in December 2020 which discussed the proper security requirements for IoT devices. The drafts cover what agencies need to look for to ensure their devices are secure and how manufacturers should configure devices that they make for the Federal Government.  
-
-- NIST Special Publication (SP) [800-213](https://doi.org/10.6028/NIST.SP.800-213-draft) provides guidance to federal agencies on what they should ask for when they acquire these devices. 
-- NIST Interagency Reports (NISTIRs) [8259B](https://doi.org/10.6028/NIST.IR.8259B-draft), [8259C](https://doi.org/10.6028/NIST.IR.8259C-draft) and [8259D](https://doi.org/10.6028/NIST.IR.8259D-draft), along with two previously released foundational publications in this series, [NISTIR 8259](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8259.pdf) and [NISTIR 8259A](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8259A.pdf), bring the current total in the series to five, and offer a suggested starting point for manufacturers who are building IoT devices for the federal government market.
-
-As is the case with all NIST publications, the guidance itself is not regulatory.  However, NIST is responsible for developing information security standards and guidelines, including minimum requirements for federal systems.  Because companies that do business with government agencies will need to interact with technology the government finds acceptable, the guidance is likely to have far-reaching influence. 
-
-**Considerations:**  NIST has a big role under the IoT Cybersecurity Improvement Act.  The Act requires NIST to create guidelines and standards for managing federal IoT devices by early March 2021.  GSA must adhere to the guidelines/standards created for management of IoT.
-
-<div class="small-caps">Essential Equipment & Terms</div>
-
-What Does It Take To Explore VR, AR, And MR?
-- Research headsets; VR, AR and MR capabilities; and requirements of the hardware and software.
-- Determine if your current computer system can handle the load.
-- If it can’t, decide on a desktop or laptop that meets recommended requirements and has a high-performing CPU.
-- Ensure the computer, the headset, and the game will all work well together.
-
-Virtual Reality (VR) has been the “next big thing” for several years, but its time has finally come as a way to generate realistic images, sounds, and other sensations that put you smack in the middle of a spectacular imaginary world. Augmented Reality (AR), which adds virtual stuff to your real world environment, is contributing to the buzz, and both technologies should become a big part of our future. With Mixed Reality (MR), you can play a virtual video game, grab your real world water bottle, and smack an imaginary character from the game with the bottle. Imagination and reality have never been so intermingled.
-
-So much is happening so fast that the differences between VR, AR, and MR can seem a little puzzling at first. Each of these spellbinding technologies are accessible to almost everyone, but before you throw down your hard-earned money for the latest head-mounted display, let’s take a closer look at what you’ll need for an amazing VR, AR, or MR experience.
-
 ### The History and Future of Virtual Reality
 
 We’ve been trying to capture “Virtual Reality” for much longer than just the past five to ten years. There were popular peer-through toys in the 1950s and enclosed flight simulators debuted in the 1960s, but the idea of VR goes back even further.
@@ -96,6 +55,19 @@ From gaming, to movies, to medicine, the uses for Virtual Reality, Augmented Rea
 - **Professional sports**—For training programs like STRIVR to help pro and amateur athletes
 - **Gaming**—For over 1,000 games already available, from first-person shooters to strategy games to role-playing adventures
 
+### What Does It Take To Explore VR, AR, And MR?
+
+- Research headsets; VR, AR and MR capabilities; and requirements of the hardware and software.
+- Determine if your current computer system can handle the load.
+- If it can’t, decide on a desktop or laptop that meets recommended requirements and has a high-performing CPU.
+- Ensure the computer, the headset, and the game will all work well together.
+
+Virtual Reality (VR) has been the “next big thing” for several years, but its time has finally come as a way to generate realistic images, sounds, and other sensations that put you smack in the middle of a spectacular imaginary world. Augmented Reality (AR), which adds virtual stuff to your real world environment, is contributing to the buzz, and both technologies should become a big part of our future. With Mixed Reality (MR), you can play a virtual video game, grab your real world water bottle, and smack an imaginary character from the game with the bottle. Imagination and reality have never been so intermingled.
+
+So much is happening so fast that the differences between VR, AR, and MR can seem a little puzzling at first. Each of these spellbinding technologies are accessible to almost everyone, but before you throw down your hard-earned money for the latest head-mounted display, let’s take a closer look at what you’ll need for an amazing VR, AR, or MR experience.
+
+<div class="small-caps">Essential Equipment & Terms</div>
+
 ### What You’ll Need: Headsets
 
 There are many, many VR headsets available, all with varying performance levels and prices. Entry-level gear, such as Google Cardboard*, uses your mobile phone as the screen, whereas PC-operated devices, like the HTC Vive* or Oculus Rift*, are immersive—providing a premium VR environment. Microsoft has recently announced their Windows* 10 Mixed Reality platform that initially uses fully immersive headsets offered by Acer, Asus, Dell, HP, Lenovo, and Samsung.
@@ -120,26 +92,24 @@ New VR and AR technologies and products continue to come to market, making new e
 
 ### Key VR Terms to Know
 
-## Frames per second (FPS)
+#### Frames per second (FPS)
 
 - Frequency at which a system can display consecutive images, or frames
 - Without a high and constant frame rate (greater than 60 FPS), the motion won’t look right, and you could even feel sick
 
-## Field of view
+#### Field of view
 
 - The angle of the observable world that can be seen
 - If the window of view is too narrow, you could end up making unnatural head rotations
 
-## Degrees of Freedom (DoF)
+#### Degrees of Freedom (DoF)
 
 - The number of directions that an object can move or rotate. The six degrees of freedom are pitch, roll, yaw, left and right, forward and backward, up and down
 - More DoFs allow you to move more naturally in VR
 
-## Latency
+#### Latency
 
 - The amount of time it takes a system to react/respond to movements or commands
 - Latency is critical when it comes to the presence inside Virtual Reality—if the system doesn’t respond instantly, it doesn’t feel real.
 
-
-
-
+[Placeholder Source](https://www.intel.com/content/www/us/en/virtual-reality/virtual-reality-overview.html)
